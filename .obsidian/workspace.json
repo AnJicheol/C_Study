@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "69193d59acdfe8f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a15811cba3cded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aaea53054bdd4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f2473a55803f0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1efad3ea1e4bdeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/자료구조/README_자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58aca1a1e634642b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b85675936077f45d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed292f4e52a2dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effcddfc97e84c64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f107c9b3c60f31f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cef5f8e46031c96b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71c1a862516157c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5662d54c6bdbf1b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53fda510eb1af3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcc5828f6a9ac22c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ed4a59ad0c5689a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f21bebe425a5566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "effcddfc97e84c64",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "CS 과목/자료구조/README_자료구조.md",
+    "CS 과목/리눅스_서버/README_리눅스_서버.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
+    "README.md"
+  ]
+}
