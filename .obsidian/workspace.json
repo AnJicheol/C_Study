@@ -233,7 +233,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
                 "mode": "source",
                 "source": false
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
+                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md"
               }
             }
           }
@@ -385,15 +385,15 @@
   },
   "active": "1f0608c65cfcd895",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/K - 전략패턴.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "CS 과목/디자인패턴/README_디자인패턴.md",
-    "CS 과목/디자인패턴/무제 파일.md",
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
     "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
+    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
     "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md"
+    "알고리즘/001.정수 제곱근 판별/T - 정수 제곱근 판별.md",
+    "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
+    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
+    "알고리즘/002.문자열을 정수로 바꾸기/T - 문자열을 정수로 바꾸기.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md"
   ]
 }
