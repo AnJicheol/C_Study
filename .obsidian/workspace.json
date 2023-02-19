@@ -107,24 +107,16 @@
             "id": "79b0936477c20336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/001.정수 제곱근 판별/정수 제곱근 판별 - T.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b45767df2d369684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/002.문자열을 정수로 바꾸기/문자열을 정수로 바꾸기 - T.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -200,6 +192,30 @@
             }
           },
           {
+            "id": "4357dad0a52251ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb5defaec5688aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -216,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -343,17 +359,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f3469a645389d0eb",
+  "active": "cb5defaec5688aaf",
   "lastOpenFiles": [
+    "CS 과목/리눅스_서버/README_리눅스_서버.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
+    "CS 과목/디자인패턴/무제 파일.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
     "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
     "알고리즘/005.하샤드 수/하샤드 수  -K.md",
     "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
     "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-    "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/정수 내림차순으로 배치하기 - T.md",
-    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/나머지가 1이 되는 수 찾기 -T.md",
-    "알고리즘/001.정수 제곱근 판별/정수 제곱근 판별 - T.md"
+    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md"
   ]
 }
