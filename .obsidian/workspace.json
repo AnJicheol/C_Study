@@ -8,255 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aaea53054bdd4af",
+            "id": "5b5f54ef20db2fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9f2473a55803f0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1efad3ea1e4bdeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/README_자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58aca1a1e634642b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533804972acf37ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0797942423b1aa9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d78f51a88598e75d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19892bfd25551939",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48ddb886fcaea268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79b0936477c20336",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b45767df2d369684",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99093c338fb9028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbd08e5de4278e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0efd9b9944090c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef692109973788b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ca0951e9d6eadb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3469a645389d0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5defaec5688aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e68f5cfa3db66b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8050fa6717ee0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/K - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f0608c65cfcd895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8b56b29b97df54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d62f7962792cd4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "file": "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "file": "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
+                "file": "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md"
               }
             }
           }
@@ -383,17 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f0608c65cfcd895",
+  "active": "5b5f54ef20db2fa8",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/K - 전략패턴.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
+    "알고리즘/002.문자열을 정수로 바꾸기/T - 문자열을 정수로 바꾸기.md",
+    "알고리즘/001.정수 제곱근 판별/T - 정수 제곱근 판별.md",
+    "CS 과목/자료구조/알고리즘 이란/README.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "CS 과목/디자인패턴/README_디자인패턴.md",
-    "CS 과목/디자인패턴/무제 파일.md",
-    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-    "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md"
+    "CS 과목/자료구조/README_자료구조.md",
+    "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
+    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
+    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md"
   ]
 }

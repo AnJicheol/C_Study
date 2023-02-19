@@ -11,6 +11,7 @@
 -   s는 "0"으로 시작하지 않습니다.
 
 ```
+JAVA
 class Solution {
     public int solution(String s) {
         

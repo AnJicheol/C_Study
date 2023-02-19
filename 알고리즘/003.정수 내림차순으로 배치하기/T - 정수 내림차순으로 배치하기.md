@@ -8,6 +8,8 @@
 -   `n`은 1이상 8000000000 이하인 자연수입니다.
 
 ```
+JAVA
+
 import java.util.*;
 
 class Solution {
