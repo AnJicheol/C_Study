@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/Y-콜라츠 추측.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/Y-콜라츠 추측.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/Y-콜라츠 추측.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/Y-콜라츠 추측.md"
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
               }
             }
           }
@@ -297,15 +297,15 @@
   },
   "active": "5ac09b7beb126425",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "알고리즘/001.정수 제곱근 판별/T - 정수 제곱근 판별.md",
     "알고리즘/007.콜라츠 추측/Y-콜라츠 추측.md",
-    "README.md",
+    "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
+    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
     "알고리즘/006.두 정수 사이의 합/Y-두 정수 사이의 합.md",
-    "알고리즘/005.하샤드 수/Y-하샤드 수.md",
-    "알고리즘/005.하샤드 수/무제 파일 1.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/Y-나머지가 1이 되는 수 찾기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/무제 파일.md",
-    "알고리즘/001.정수 제곱근 판별/Y-정수 제곱근 판별.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/Y-문자열을 정수로 바꾸기.md"
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
+    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "알고리즘/005.하샤드 수/Y-하샤드 수.md"
   ]
 }
