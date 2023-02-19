@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b5f54ef20db2fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/자료구조/알고리즘 이란/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md"
+                "file": "CS 과목/자료구조/알고리즘 이란/README.md"
               }
             }
           }
@@ -315,10 +327,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "92ef0f1c25832b67",
+  "active": "5b5f54ef20db2fa8",
   "lastOpenFiles": [
-    "CS 과목/자료구조/README_자료구조.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+    "CS 과목/자료구조/README_자료구조.md",
     "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
     "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
     "알고리즘/005.하샤드 수/T - 하샤드 수.md",
