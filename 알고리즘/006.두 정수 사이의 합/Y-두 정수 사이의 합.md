@@ -1,5 +1,3 @@
-[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
-
 ###### 문제 설명
 
 두 정수 a, b가 주어졌을 때 a와 b 사이에 속한 모든 정수의 합을 리턴하는 함수, solution을 완성하세요.  
@@ -11,18 +9,24 @@
 -   a와 b는 -10,000,000 이상 10,000,000 이하인 정수입니다.
 -   a와 b의 대소관계는 정해져있지 않습니다.
 
+
 ```
-등차수열 사용
-
-JAVA 
 class Solution {
-
     public long solution(int a, int b) {
-        int max = Math.max(a, b);
-        int min = Math.min(a, b);
+        long answer = 0;
+        int swap = 0;
         
-        return (long)(max - min + 1) * (max + min) / 2;
+        if(a > b){
+            swap = b;
+            b = a;
+            a = swap;
+        }
+        else if(a==b){return a;}
         
+        for(int i = a; i <= b; i++){
+            answer += i;
+        }
+        return answer;
     }
 }
 ```

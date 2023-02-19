@@ -24,3 +24,33 @@ class Solution {
   }
 }
 ```
+
+```
+JAVA V - 2 정수로만 처리
+
+해당이 문제는 상관이 없지만 정수만으로 처리할 수 있는 문제는 
+최대한 정수만 사용해서 푸는 것이 좋기 때문에 만들어 본 알고리즘
+
+import java.util.Arrays;
+
+class Solution {
+    public long solution(long n) {
+        int[] num = new int[(int)(Math.log10(n)+1)];
+        long answer = 0;
+        long  value = 1;
+
+        for(int i = 0; i < num.length; i++){
+            num[i] = (int)(n % 10);
+            n = n / 10;
+        }
+        Arrays.sort(num);
+
+        for(int Num : num){
+            answer += Num * value;
+            value   = value * 10;
+        }
+        return answer;
+    }
+}
+
+```
