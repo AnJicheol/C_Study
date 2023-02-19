@@ -204,6 +204,42 @@
             }
           },
           {
+            "id": "c9e68f5cfa3db66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8050fa6717ee0c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/K - 전략패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f0608c65cfcd895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -220,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -286,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md"
+                "file": "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
               }
             }
           }
@@ -347,17 +383,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cb5defaec5688aaf",
+  "active": "1f0608c65cfcd895",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/K - 전략패턴.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "CS 과목/디자인패턴/README_디자인패턴.md",
     "CS 과목/디자인패턴/무제 파일.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
     "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
     "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md"
+    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md"
   ]
 }
