@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02e38658725aa7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e7752b5df3b6428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c348d23530a0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8ebf64bd92cccca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "GamePatrol/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "GamePatrol/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "GamePatrol/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md"
+                "file": "GamePatrol/README.md"
               }
             }
           }
@@ -185,15 +148,15 @@
   },
   "active": "8ebf64bd92cccca3",
   "lastOpenFiles": [
-    "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
+    "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
     "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md",
-    "알고리즘/009.문자열 다루기 기본/문자열 다루기 기본.md",
+    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
+    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
+    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
     "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
+    "알고리즘/README.md",
     "알고리즘/010.부족한 금액 계산하기/부족한 금액 계산하기.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
-    "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
+    "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
+    "알고리즘/009.문자열 다루기 기본/문자열 다루기 기본.md"
   ]
 }
