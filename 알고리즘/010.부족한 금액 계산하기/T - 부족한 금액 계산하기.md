@@ -10,4 +10,21 @@
 -   놀이기구의 이용료 price : 1 ≤ price ≤ 2,500, price는 자연수
 -   처음 가지고 있던 금액 money : 1 ≤ money ≤ 1,000,000,000, money는 자연수
 -   놀이기구의 이용 횟수 count : 1 ≤ count ≤ 2,500, count는 자연수
-[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+
+
+```
+JAVA
+
+class Solution {
+    public long solution(int price, int money, int count) {
+        
+        long answer = 0;
+        
+        for(int i = 1; i < count + 1; i++){
+            answer += price * i; 
+        }
+        
+        return (money - answer > 0) ? 0 : (money - answer) * - 1;
+    }
+}
+```
