@@ -57,3 +57,18 @@ class Solution {
 2) 자바에서 문자열 + 는 성능이 너무 낮다 StringBuilder사용 권장
 
 ```
+
+~~~
+김성민 피드백
+
+1 )     split 함수를 사용하면 코드를 줄일 수 있다
+
+		String[] list = String.valueOf(n).split("");
+
+        String num = String.valueOf(n);
+        
+        char[] num2 = new char[num.length()];
+        for(int i = 0; i < num2.length; i++){
+            num2[i] = num.charAt(i);
+        }
+~~~

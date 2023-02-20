@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b7956b3d23caea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -243,8 +255,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fcfaad28f0e4ad5a",
+  "active": "8b7956b3d23caea8",
   "lastOpenFiles": [
+    "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/010.부족한 금액 계산하기/규칙 - 부족한 금액 계산하기.md",
     "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md",
     "알고리즘/009.문자열 다루기 기본/규칙 - 문자열 다루기 기본.md",
@@ -252,8 +266,6 @@
     "알고리즘/008.가운데 글자 가져오기/규칙 - 가운데 글자 가져오기.md",
     "알고리즘/무제 파일.md",
     "README.md",
-    "GamePatrol/README.md",
-    "conflict-files-obsidian-git.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md"
+    "GamePatrol/README.md"
   ]
 }
