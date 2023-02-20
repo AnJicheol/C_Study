@@ -109,26 +109,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
+                "file": "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b7956b3d23caea8",
+            "id": "959a566b8ed62844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d82d42847d239d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f99752662b2749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md"
               }
             }
           }
@@ -255,17 +279,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b7956b3d23caea8",
+  "active": "f3f99752662b2749",
   "lastOpenFiles": [
-    "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/010.부족한 금액 계산하기/규칙 - 부족한 금액 계산하기.md",
-    "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md",
-    "알고리즘/009.문자열 다루기 기본/규칙 - 문자열 다루기 기본.md",
-    "알고리즘/008.가운데 글자 가져오기/T - 가운데 글자 가져오기.md",
-    "알고리즘/008.가운데 글자 가져오기/규칙 - 가운데 글자 가져오기.md",
+    "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+    "알고리즘/013.삼총사/규칙 - 삼총사.md",
+    "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
     "알고리즘/무제 파일.md",
-    "README.md",
-    "GamePatrol/README.md"
+    "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
+    "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
+    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
+    "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md",
+    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
+    "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md"
   ]
 }

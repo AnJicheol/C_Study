@@ -12,3 +12,5 @@ function solution(s) {
     if(s.length%2 == 0)  answer = s.charAt(s.length/2-1) + answer
     return answer;
 }
+
+

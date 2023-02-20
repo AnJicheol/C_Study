@@ -14,6 +14,6 @@ function solution(s) {
     var str = s.replace(/[^0-9]/gi, "")
     
     if(s.length != 4 && s.length !=6 || s.length != str.length )  return false
- 
     return answer;
 }
+~~~

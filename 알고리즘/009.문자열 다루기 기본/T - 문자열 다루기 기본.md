@@ -18,13 +18,11 @@ class Solution {
     if(len != 4 && len != 6) return false;
         
     try {
-      Integer.parseInt(s);
-      return true;
+	      Integer.parseInt(s);
+	      return true;
         
-    } 
-    catch (NumberFormatException ex)  {return false;}
+    } catch (NumberFormatException ex) {return false;}
     
-    }
 }
 
 ```

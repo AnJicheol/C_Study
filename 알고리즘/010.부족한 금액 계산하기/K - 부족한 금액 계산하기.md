@@ -20,3 +20,4 @@ function solution(price, money, count) {
     if(money >= 0) return 0
     return money*-1;
 }
+~~~
