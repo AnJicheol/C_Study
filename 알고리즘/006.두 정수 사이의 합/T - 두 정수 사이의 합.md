@@ -1,3 +1,4 @@
+[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
 
 ###### 문제 설명
 
@@ -11,6 +12,9 @@
 -   a와 b의 대소관계는 정해져있지 않습니다.
 
 ```
+등차수열 사용
+
+JAVA 
 class Solution {
 
     public long solution(int a, int b) {
@@ -19,7 +23,6 @@ class Solution {
         
         return (long)(max - min + 1) * (max + min) / 2;
         
-
     }
 }
 ```

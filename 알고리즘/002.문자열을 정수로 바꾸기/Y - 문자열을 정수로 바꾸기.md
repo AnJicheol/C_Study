@@ -10,14 +10,13 @@
 -   s는 "0"으로 시작하지 않습니다.
 
 
-~~~~
-JS
-function solution(s) {
-    var answer = 0;
-
-    answer = Number(s);
-
-    return answer;
+```
+class Solution {
+    public int solution(String s) {
+        return Integer.parseInt(s);
+    }
 }
+```
 
-~~~~
+
+

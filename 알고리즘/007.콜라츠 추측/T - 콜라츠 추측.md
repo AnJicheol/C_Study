@@ -31,7 +31,6 @@ class Solution {
             if(num == 1) return i;
         }
         
-        
         return -1;
     }
 }

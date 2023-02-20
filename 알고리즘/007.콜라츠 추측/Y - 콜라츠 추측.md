@@ -14,14 +14,23 @@
 
 -   입력된 수, `num`은 1 이상 8,000,000 미만인 정수입니다.
 
-~~~~
-function solution(num) {
-    var answer = 0;
-    while(num != 1){
-        answer++
-        num = (num%2 == 0) ? num/2 : num*3+1
-        if(answer == 500) return -1
+```
+class Solution {
+    public int solution(int num) {
+        int answer = 0;
+        long num2 = (long)num;
+        
+        if(num2 == 1){return 0;}
+        
+        for(int i = 0; num2 > 1; i++){
+            if(num2%2 == 0){num2 = num2 / 2;}
+            else{num2 = num2 * 3 + 1;}
+            answer++;
+            
+            if(answer >=500){return -1;}
+        }
+        
+        return answer;
     }
-    return answer;
 }
-~~~~
+```
