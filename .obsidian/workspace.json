@@ -4,35 +4,243 @@
     "type": "split",
     "children": [
       {
-        "id": "541ca542b24daa4b",
+        "id": "b7a15811cba3cded",
         "type": "tabs",
         "children": [
           {
-            "id": "02e38658725aa7c7",
+            "id": "2aaea53054bdd4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/부족한 금액 계산하기.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e7752b5df3b6428",
+            "id": "9f2473a55803f0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14c348d23530a0eb",
+            "id": "1efad3ea1e4bdeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/자료구조/README_자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58aca1a1e634642b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "533804972acf37ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0797942423b1aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d78f51a88598e75d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "19892bfd25551939",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "48ddb886fcaea268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79b0936477c20336",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b45767df2d369684",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "99093c338fb9028b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cbd08e5de4278e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0efd9b9944090c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef692109973788b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca0951e9d6eadb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3469a645389d0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb5defaec5688aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9e68f5cfa3db66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8050fa6717ee0c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f0608c65cfcd895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "227294199f2cbe19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a9d091289ecc4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +252,59 @@
             }
           },
           {
-            "id": "8ebf64bd92cccca3",
+            "id": "2e45747475609202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c6cb63f5946c485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d1b52f09ad20a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da8b56b29b97df54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d62f7962792cd4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -122,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md"
+                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md"
               }
             }
           }
@@ -183,17 +431,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ebf64bd92cccca3",
+  "active": "b9d1b52f09ad20a4",
   "lastOpenFiles": [
-    "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md",
-    "알고리즘/009.문자열 다루기 기본/문자열 다루기 기본.md",
+    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
+    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
+    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
+    "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/Y - 정수 내림차순으로 배치하기.md",
     "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-    "알고리즘/010.부족한 금액 계산하기/부족한 금액 계산하기.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/005.하샤드 수/하샤드 수  -K.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
-    "CS 과목/자료구조/알고리즘 이란/K - 알고리즘 이란.md"
+    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md"
   ]
 }
