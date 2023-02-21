@@ -17,8 +17,8 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-~~~~
-Js
+~~~~js
+
 function solution(s) {
     var number = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
     for(var i=0; i<number.length; i++){

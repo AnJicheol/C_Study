@@ -8,67 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b5f54ef20db2fa8",
+            "id": "c88aacc1f733eddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
+                "file": "GamePatrol/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "633a6fd47684789a",
+            "id": "a90350e4bf6227ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a368a3e246a71dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
+                "file": "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f7984b2dfcd13eb",
+            "id": "42138360aaa26ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+                "file": "GamePatrol/보고서/Y/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06ad02deb772221e",
+            "id": "46945a4ec6621350",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+                "file": "GamePatrol/보고서/T/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62118b1335986239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb4673e5f2f2a385",
+            "id": "b33915f788fd4f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,31 +76,55 @@
             }
           },
           {
-            "id": "c88aacc1f733eddb",
+            "id": "a44ab1c9ee5d9839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "알고리즘/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dce7aef76e843ae",
+            "id": "e0540e2e3d4a6125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20b781cb40028293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/016.k번째수/규칙 - K번째수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb4607417d07973e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -171,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md"
               }
             }
           }
@@ -232,17 +251,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2dce7aef76e843ae",
+  "active": "fb4607417d07973e",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "알고리즘/001.정수 제곱근 판별/T - 정수 제곱근 판별.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/T - 문자열을 정수로 바꾸기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
-    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
-    "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
-    "알고리즘/008.가운데 글자 가져오기/T - 가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md"
+    "알고리즘/0.md",
+    "알고리즘/016.k번째수/규칙 - K번째수.md",
+    "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+    "알고리즘/README.md",
+    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
+    "README.md",
+    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
+    "GamePatrol/보고서/Y/무제 파일.md",
+    "GamePatrol/보고서/T/무제 파일.md",
+    "GamePatrol/보고서/K/무제 파일.md"
   ]
 }
