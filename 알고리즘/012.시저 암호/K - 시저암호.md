@@ -35,7 +35,6 @@ function solution(s, n) {
             str_u %= 26
             answer += upper.charAt(str_u)
         }
-        
     }
     return answer;
 }
