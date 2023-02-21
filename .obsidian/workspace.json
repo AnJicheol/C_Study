@@ -243,12 +243,8 @@
             "id": "5a9d091289ecc4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -288,6 +284,54 @@
             }
           },
           {
+            "id": "9b282afebc0a904d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bd376df7cf508a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d233fce68cba5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ea545716f0310f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/012.시저 암호/K - 시저암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -304,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -370,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
+                "file": "알고리즘/012.시저 암호/K - 시저암호.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
+                "file": "알고리즘/012.시저 암호/K - 시저암호.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -410,7 +454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md"
+                "file": "알고리즘/012.시저 암호/K - 시저암호.md"
               }
             }
           }
@@ -431,17 +475,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b9d1b52f09ad20a4",
+  "active": "0ea545716f0310f3",
   "lastOpenFiles": [
+    "알고리즘/013.삼총사/K - 삼총상.md",
+    "알고리즘/013.삼총사/규칙 - 삼총사.md",
+    "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+    "알고리즘/012.시저 암호/K - 시저암호.md",
+    "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
+    "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
     "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
-    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
-    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-    "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/Y - 정수 내림차순으로 배치하기.md",
-    "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md"
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md"
   ]
 }
