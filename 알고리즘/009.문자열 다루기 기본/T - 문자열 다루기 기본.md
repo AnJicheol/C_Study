@@ -8,8 +8,7 @@
 -   `s`는 영문 알파벳 대소문자 또는 0부터 9까지 숫자로 이루어져 있습니다.
 
 
-```
-JAVA
+```java
 
 class Solution {
     public boolean solution(String s) {

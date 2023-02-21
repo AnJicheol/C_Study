@@ -37,90 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4686cff3d839ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/규칙 - 가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e936b9991b3c6335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/009.문자열 다루기 기본/규칙 - 문자열 다루기 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ffde6892031d1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/규칙 - 가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b51209d9f9fe62b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/T - 가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bbb2ac905a863b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/규칙 - 부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfaad28f0e4ad5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "959a566b8ed62844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
                 "mode": "source",
                 "source": false
@@ -128,7 +44,7 @@
             }
           },
           {
-            "id": "9d82d42847d239d7",
+            "id": "06ad02deb772221e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,7 +56,7 @@
             }
           },
           {
-            "id": "f3f99752662b2749",
+            "id": "62118b1335986239",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb4673e5f2f2a385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88aacc1f733eddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -218,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md"
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
               }
             }
           }
@@ -279,17 +220,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f3f99752662b2749",
+  "active": "c88aacc1f733eddb",
   "lastOpenFiles": [
-    "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
-    "알고리즘/013.삼총사/규칙 - 삼총사.md",
-    "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
-    "알고리즘/무제 파일.md",
-    "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-    "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
-    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-    "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md",
-    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-    "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md"
+    "알고리즘/001.정수 제곱근 판별/T - 정수 제곱근 판별.md",
+    "알고리즘/002.문자열을 정수로 바꾸기/T - 문자열을 정수로 바꾸기.md",
+    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
+    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
+    "알고리즘/005.하샤드 수/T - 하샤드 수.md",
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
+    "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
+    "알고리즘/008.가운데 글자 가져오기/T - 가운데 글자 가져오기.md",
+    "알고리즘/009.문자열 다루기 기본/T - 문자열 다루기 기본.md",
+    "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md"
   ]
 }

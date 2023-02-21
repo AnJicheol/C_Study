@@ -7,8 +7,8 @@
 -   `x`는 1 이상, 10000 이하인 정수입니다.
 
 
-```` 
-JAVA
+````java
+
 
 class Solution {
     public boolean solution(int x) {
