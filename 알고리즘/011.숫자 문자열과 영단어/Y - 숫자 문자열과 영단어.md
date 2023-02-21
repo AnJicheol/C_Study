@@ -17,14 +17,21 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-~~~~
-Js
-function solution(s) {
-    var number = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
-    for(var i=0; i<number.length; i++){
-        s = s.replaceAll(number[i],i)
-    }
-    return s*1;
-}
-~~~~
+```
+JAVA
 
+class Solution {
+    public int solution(String s) {
+        int answer = 0;
+        String[] str = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+        
+        for(int i = 0; i < str.length; i++){
+            if(s.contains(str[i])){
+                s = s.replaceAll(str[i],String.valueOf(i));
+            }
+        }
+        
+        return answer = Integer.parseInt(s);
+    }
+}
+```
