@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e88045d5eec3d4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0119e92c36011014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f8fe352cf63be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/012.시저 암호/Y - 시저 암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42b4edbe31fd2570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/013.삼총사/Y - 삼총사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GamePatrol/README.md",
+                "file": "알고리즘/013.삼총사/Y - 삼총사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GamePatrol/README.md",
+                "file": "알고리즘/013.삼총사/Y - 삼총사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GamePatrol/README.md"
+                "file": "알고리즘/013.삼총사/Y - 삼총사.md"
               }
             }
           }
@@ -146,17 +195,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ebf64bd92cccca3",
+  "active": "42b4edbe31fd2570",
   "lastOpenFiles": [
+    "알고리즘/013.삼총사/규칙 - 삼총사.md",
+    "알고리즘/013.삼총사/Y - 삼총사.md",
+    "알고리즘/012.시저 암호/Y - 시저 암호.md",
+    "알고리즘/012.시저 암호/규칙 - 시저 암호.md",
+    "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
+    "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
+    "conflict-files-obsidian-git.md",
+    "GamePatrol/README.md",
     "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md",
-    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-    "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
-    "알고리즘/README.md",
-    "알고리즘/010.부족한 금액 계산하기/부족한 금액 계산하기.md",
-    "알고리즘/008.가운데 글자 가져오기/가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/문자열 다루기 기본.md"
+    "알고리즘/009.문자열 다루기 기본/Y - 문자열 다루기 기본.md"
   ]
 }
