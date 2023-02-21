@@ -356,6 +356,18 @@
             }
           },
           {
+            "id": "009c2c36f0ed3bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -372,7 +384,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -438,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/012.시저 암호/T - 시저 암호.md",
+                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -455,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/012.시저 암호/T - 시저 암호.md",
+                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -478,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/012.시저 암호/T - 시저 암호.md"
+                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md"
               }
             }
           }
@@ -499,17 +511,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "61924f04c1f05837",
+  "active": "009c2c36f0ed3bde",
   "lastOpenFiles": [
+    "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+    "알고리즘/016.k번째수/규칙 - K번째수.md",
+    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/012.시저 암호/T - 시저 암호.md",
     "알고리즘/012.시저 암호/K - 시저암호.md",
     "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
     "알고리즘/013.삼총사/Y - 삼총사.md",
     "알고리즘/013.삼총사/T - 삼총사.md",
-    "알고리즘/013.삼총사/K - 삼총사.md",
-    "알고리즘/012.시저 암호/Y - 시저 암호.md",
-    "알고리즘/013.삼총사/규칙 - 삼총사.md",
-    "알고리즘/README.md",
-    "알고리즘/012.시저 암호/T - 시저 암호.md",
-    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md"
+    "알고리즘/013.삼총사/K - 삼총사.md"
   ]
 }

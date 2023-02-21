@@ -19,6 +19,7 @@ function solution(s, n) {
     var answer = '';
     var upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     var lower = 'abcdefghijklmnopqrstuvwxyz'
+    
     for(var i=0; i< s.length; i++){
         var str_l = lower.indexOf(s.charAt(i));
         var str_u = upper.indexOf(s.charAt(i));
