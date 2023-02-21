@@ -7,9 +7,7 @@
 
 -   `n`은 1이상 8000000000 이하인 자연수입니다.
 
-```
-JAVA
-
+```java
 import java.util.*;
 
 class Solution {
@@ -25,11 +23,8 @@ class Solution {
 }
 ```
 
-```
-JAVA V - 2 정수로만 처리
-
-해당이 문제는 상관이 없지만 정수만으로 처리할 수 있는 문제는 
-최대한 정수만 사용해서 푸는 것이 좋기 때문에 만들어 본 알고리즘
+```java
+ V - 2 정수로만 처리
 
 import java.util.Arrays;
 

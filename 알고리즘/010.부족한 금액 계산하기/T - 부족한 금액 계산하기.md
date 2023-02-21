@@ -12,8 +12,7 @@
 -   놀이기구의 이용 횟수 count : 1 ≤ count ≤ 2,500, count는 자연수
 
 
-```
-JAVA
+```java
 
 class Solution {
     public long solution(int price, int money, int count) {

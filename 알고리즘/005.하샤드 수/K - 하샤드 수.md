@@ -7,7 +7,7 @@
 
 -   `x`는 1 이상, 10000 이하인 정수입니다.
 
-~~~~
+~~~~ Js
 function solution(x) {
     var answer = true;
     var x_str = ""

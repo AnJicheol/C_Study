@@ -1,4 +1,5 @@
 
+
 ###### 문제 설명
 
 ![img1.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/d31cb063-4025-4412-8cbc-6ac6909cf93e/img1.png)
@@ -15,15 +16,20 @@
 
 참고로 각 숫자에 대응되는 영단어는 다음 표와 같습니다.
 
-## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-~~~~ Js
-function solution(s) {
-    var number = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
-    for(var i=0; i<number.length; i++){
-        s = s.replaceAll(number[i],i)
+```java
+
+class Solution {
+    public int solution(String s) {
+        
+        String[] strArr = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+        
+        for(int i = 0; i < 10; i++) {
+            s = s.replaceAll(strArr[i], Integer.toString(i));
+        }
+        
+        return Integer.parseInt(s);
     }
-    return s*1;
 }
-~~~~
 
+```

@@ -8,7 +8,7 @@
 -   `s`는 길이 1 이상, 길이 8 이하인 문자열입니다.
 -   `s`는 영문 알파벳 대소문자 또는 0부터 9까지 숫자로 이루어져 있습니다.
 
-~~~
+~~~ Js
 function solution(s) {
     var answer = true;
     var str = s.replace(/[^0-9]/gi, "")
