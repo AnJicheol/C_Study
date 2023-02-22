@@ -15,7 +15,7 @@
 
 -   입력된 수, `num`은 1 이상 8,000,000 미만인 정수입니다.
 
-```
+```java
 class Solution {
     public int solution(int num1) {
         
