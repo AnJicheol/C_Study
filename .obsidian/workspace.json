@@ -397,7 +397,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+                "file": "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996242bac9bc8899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/015.비밀지도/K - 비밀지도.md",
                 "mode": "source",
                 "source": false
               }
@@ -420,7 +432,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -486,7 +498,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+                "file": "알고리즘/015.비밀지도/K - 비밀지도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +515,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+                "file": "알고리즘/015.비밀지도/K - 비밀지도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -526,7 +538,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md"
+                "file": "알고리즘/015.비밀지도/K - 비밀지도.md"
               }
             }
           }
@@ -547,8 +559,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f702a248b9e45026",
+  "active": "996242bac9bc8899",
   "lastOpenFiles": [
+    "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
+    "알고리즘/015.비밀지도/K - 비밀지도.md",
     "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
     "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
     "알고리즘/016.k번째수/K - K 번째수.md",
@@ -556,8 +570,6 @@
     "알고리즘/005.하샤드 수/T - 하샤드 수.md",
     "알고리즘/014.최소직사각형/K - 최소직사각형.md",
     "알고리즘/016.k번째수/규칙 - K 번째수.md",
-    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-    "알고리즘/012.시저 암호/K - 시저암호.md",
-    "알고리즘/012.시저 암호/T - 시저 암호.md"
+    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md"
   ]
 }
