@@ -4,139 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a15811cba3cded",
+        "id": "ca90e445da3ef2dc",
         "type": "tabs",
         "children": [
           {
-            "id": "c88aacc1f733eddb",
+            "id": "e95dddf031de3e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GamePatrol/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a90350e4bf6227ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a368a3e246a71dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42138360aaa26ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/Y/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46945a4ec6621350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/T/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33915f788fd4f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44ab1c9ee5d9839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0540e2e3d4a6125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20b781cb40028293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/016.k번째수/규칙 - K번째수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb4607417d07973e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e9299d298a1eaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/test.java.md"
+                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md"
               }
             }
           }
@@ -255,25 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:Create new canvas": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e9299d298a1eaf5",
+  "active": "effcddfc97e84c64",
   "lastOpenFiles": [
+    "README.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
+    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
+    "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
     "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
     "알고리즘/0.md",
     "알고리즘/016.k번째수/규칙 - K번째수.md",
     "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
-    "알고리즘/README.md",
-    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-    "README.md",
-    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
-    "GamePatrol/보고서/Y/무제 파일.md",
-    "GamePatrol/보고서/T/무제 파일.md"
+    "알고리즘/README.md"
   ]
 }
