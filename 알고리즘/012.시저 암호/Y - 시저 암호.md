@@ -12,7 +12,11 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 
+<<<<<<< HEAD
 ```JAVA
+=======
+```java
+>>>>>>> origin/master
 
 class Solution {
     public String solution(String s, int n) {

@@ -15,7 +15,7 @@
 --------------------------------------------------------
 ### 1. 중복코드 방지
 ### 2. SOLID - OCP 위반 방지    ! 스터디 목차상 다음에 설명 !
-### 3.  확장성 보장 -- > 알고리즘 변경 및 추가
+### 3. 확장성 보장 -- > 알고리즘 변경 및 추가
 
 
 # 단점
@@ -87,8 +87,8 @@ public class Main {
     public static void main(String[] args) {  
   
         item inventory1 = new weapon();  
-        item inventory2 = new armor();  
-        item inventory3 = new portion();  
+        item inventory1 = new armor();  
+        item inventory1 = new portion();  
   
         inventory1.use();  
         inventory2.use();  
@@ -105,3 +105,5 @@ public class Main {
 체력이 증가했습니다 !
 
 ```
+
+
