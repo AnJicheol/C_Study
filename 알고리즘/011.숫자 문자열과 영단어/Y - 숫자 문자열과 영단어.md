@@ -17,8 +17,7 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-```
-JAVA
+```JAVA
 
 class Solution {
     public int solution(String s) {
