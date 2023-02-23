@@ -6,7 +6,7 @@
 
 -   s는 길이가 1 이상, 100이하인 스트링입니다.
 
-~~~
+~~~ Js
 function solution(s) {
     var answer = s.charAt(s.length/2);
     if(s.length%2 == 0)  answer = s.charAt(s.length/2-1) + answer

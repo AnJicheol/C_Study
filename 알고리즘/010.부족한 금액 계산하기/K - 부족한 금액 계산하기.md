@@ -12,7 +12,7 @@
 -   놀이기구의 이용 횟수 count : 1 ≤ count ≤ 2,500, count는 자연수
 
 
-~~~
+~~~ Js
 function solution(price, money, count) {
     for(var i=1; i<=count; i++){
         money -= price*i

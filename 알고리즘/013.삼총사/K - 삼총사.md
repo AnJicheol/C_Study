@@ -17,8 +17,7 @@
 
 ## [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
-~~~~
-Js
+~~~~ Js
 function solution(number) {
     var answer = 0;
     for(var i=0; i<number.length; i++){

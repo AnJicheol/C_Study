@@ -7,7 +7,7 @@
 
 -   `n`은 1이상 8000000000 이하인 자연수입니다.
 
-~~~~
+~~~~ Js
 JS
 function solution(n) {
     var answer = 0;

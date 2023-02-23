@@ -14,8 +14,7 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 
-~~~~
-Js
+~~~~ Js
 function solution(s, n) {
     var answer = '';
     var upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -36,7 +35,6 @@ function solution(s, n) {
             str_u %= 26
             answer += upper.charAt(str_u)
         }
-        
     }
     return answer;
 }

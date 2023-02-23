@@ -10,7 +10,7 @@
 -   s는 "0"으로 시작하지 않습니다.
 
 
-~~~~
+~~~~ Js
 JS
 function solution(s) {
     var answer = 0;
