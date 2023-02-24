@@ -19,9 +19,11 @@
             "id": "90ed347dd0bcc938",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -151,6 +157,8 @@
   },
   "active": "90ed347dd0bcc938",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/README.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
     "알고리즘/014.최소직사각형/Y - 최소직사각형.md",
     "알고리즘/014.최소직사각형/K - 최소직사각형.md",
     "알고리즘/015.비밀지도/K - 비밀지도.md",
