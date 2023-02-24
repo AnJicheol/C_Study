@@ -22,9 +22,11 @@ function solution(t, p) {
     
     for(var i=0; i<=t_len; i++){
         var num = ''
+        
         for(var j=0; j<p_len; j++){
             num += t.charAt(i+j)
-        }            
+        }     
+               
         if(num<=p) answer++
     }
     return answer;

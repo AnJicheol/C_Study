@@ -42,6 +42,7 @@ class Solution {
                 sizes[i][1] = swap;
             }
         }
+        
         int max1 = sizes[0][0];
         int max2 = sizes[0][1];
         
@@ -53,4 +54,5 @@ class Solution {
         return max1 * max2;
     }
 }
+
 ```

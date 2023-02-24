@@ -7,7 +7,7 @@
 
 # 정의 
 -------------------------------------------------------------------------
-## 알고리즘을 별도 정의하고 각 알고리즘을 캡슐화해 각각의 알고리즘을 교환 밑 수정 해서 사용할 수 있는 패턴
+## 알고리즘을 별도 정의하고 각 알고리즘을 캡슐화해 각각의 알고리즘을 분리 후 교환 밑 수정 해서 사용할 수 있는 패턴
 
 
 # 사용 이유
@@ -52,8 +52,18 @@ public class weapon extends item {
 	@Override
 	public void use(){
 		System.out.println("공격력이 증가했습니다!");
+		System.out.println("공격 속도가 증가했습니다!");
 	}
 }
+
+public class sword extends weapon{
+	
+}
+public class bow extends weapon{
+	
+}
+
+
 
 public class armor extends item {  
 	@Override
@@ -88,7 +98,7 @@ public class portion extends item {
 ```java
 
 public interface item {  
-    public void use();  
+    public void use(); 
 }
 
 public class weapon extends inventory {}      
@@ -97,7 +107,8 @@ public class portion  extends inventory {}
 
 public class sword implements item{  
     public void use() {  
-        System.out.println("공격력이 증가했습니다 !");  
+        System.out.println("공격력이 증가했습니다 !"); 
+         
     }  
 }
 
@@ -300,3 +311,5 @@ public class Main {
 
 # 보충
 --------------------------------------------------------------
+
+전략패턴 장점 : 유지보수가 좋다

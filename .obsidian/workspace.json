@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/013.삼총사/T - 삼총사.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7979b9a04e79d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5368f702a9f7f0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/019.실패율/규칙 - 실패율.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/013.삼총사/T - 삼총사.md",
+                "file": "알고리즘/019.실패율/규칙 - 실패율.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/013.삼총사/T - 삼총사.md",
+                "file": "알고리즘/019.실패율/규칙 - 실패율.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/013.삼총사/T - 삼총사.md"
+                "file": "알고리즘/019.실패율/규칙 - 실패율.md"
               }
             }
           }
@@ -195,72 +219,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "floating": {
-    "id": "0d96768b8d934a4f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "69baa156e9279dc4",
-        "type": "window",
-        "children": [
-          {
-            "id": "01338c5f45d16d8f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e95dddf031de3e5b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 963,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "34957fbe2802dd02",
+  "active": "5368f702a9f7f0df",
   "lastOpenFiles": [
-    "알고리즘/014.최소직사각형/T - 최소직사각형.md",
-    "알고리즘/015.비밀지도/T - 비밀지도.md",
-    "알고리즘/016.k번째수/T - k번째수.md",
-    "알고리즘/017.크기가 작은 부분 문자열/T - 크기가 작은 부분 문자열.md",
-    "알고리즘/015.비밀지도/K - 비밀지도.md",
-    "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
-    "알고리즘/015.비밀지도/Y - 비밀지도.md",
-    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-    "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
-    "알고리즘/016.k번째수/Y - k번째수.md",
-    "알고리즘/016.k번째수/K - K 번째수.md",
-    "알고리즘/013.삼총사/T - 삼총사.md",
-    "알고리즘/016.k번째수/규칙 - K 번째수.md",
-    "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/과제",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "CS 과목/자료구조/무제 파일.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할",
-    "CS 과목/자료구조/알고리즘 이란/README.md",
+    "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
+    "알고리즘/019.실패율/규칙 - 실패율.md",
+    "알고리즘/019.실패율",
     "README.md",
-    "알고리즘/013.삼총사/규칙 - 삼총사.md",
-    "conflict-files-obsidian-git.md",
+    "알고리즘/018.푸드 파이트 대회",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "GamePatrol/README.md",
+    "GamePatrol/보고서/Y/무제 파일.md",
+    "GamePatrol/보고서/K/무제 파일.md",
+    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "알고리즘/017.크기가 작은 부분 문자열/T - 크기가 작은 부분 문자열.md",
     "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
     "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
+    "알고리즘/016.k번째수/K - K 번째수.md",
+    "알고리즘/016.k번째수/규칙 - K 번째수.md",
+    "알고리즘/016.k번째수/T - k번째수.md",
+    "알고리즘/016.k번째수/Y - k번째수.md",
+    "알고리즘/015.비밀지도/T - 비밀지도.md",
+    "알고리즘/015.비밀지도/Y - 비밀지도.md",
+    "알고리즘/015.비밀지도/K - 비밀지도.md",
+    "알고리즘/015.비밀지도/규칙 - 비밀지도.md",
     "알고리즘/014.최소직사각형/Y - 최소직사각형.md",
+    "알고리즘/014.최소직사각형/T - 최소직사각형.md",
     "알고리즘/014.최소직사각형/K - 최소직사각형.md",
-    "알고리즘/013.삼총사/K - 삼총사.md"
+    "알고리즘/013.삼총사/T - 삼총사.md",
+    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
+    "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/과제",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할"
   ]
 }
