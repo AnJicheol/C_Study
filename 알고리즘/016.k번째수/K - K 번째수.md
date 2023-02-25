@@ -28,10 +28,12 @@ function solution(array, commands) {
     for(var i=0; i<commands.length; i++){
         var index = 0;
         var arr = [];
+        
         for(var j = commands[i][0]-1; j<commands[i][1]; j++){ 
             arr[index] = array[j]
             index++
         }
+        
         arr.sort((a ,b) => a - b) // 정렬
         answer[i] = arr[commands[i][2]-1]
     }
