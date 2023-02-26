@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md"
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md"
               }
             }
           }
@@ -193,6 +193,8 @@
   },
   "active": "0af4ffb4d4beeb62",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
     "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/019.실패율/규칙 - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
@@ -200,7 +202,6 @@
     "알고리즘/014.최소직사각형/Y - 최소직사각형.md",
     "알고리즘/014.최소직사각형/T - 최소직사각형.md",
     "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/README_디자인패턴.md",
     "CS 과목/자료구조/README_자료구조.md",
     "GamePatrol/README.md",
@@ -208,7 +209,6 @@
     "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
     "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
     "GamePatrol/보고서/K/무제 파일.md",
-    "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
     "알고리즘/016.k번째수/규칙 - K 번째수.md",
     "README.md",
     "알고리즘/019.실패율",
