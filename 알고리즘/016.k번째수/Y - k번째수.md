@@ -35,6 +35,7 @@ class Solution {
                 box[index] = array[j];
                 index++;
             }
+            
             index = 0;
             Arrays.sort(box);
             answer[i] = box[commands[i][2]-1];
