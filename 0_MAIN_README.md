@@ -1,7 +1,5 @@
 
-1차 목표 : 네이버
+## 1차 목표 : 네이버  [공고](https://recruit.navercorp.com/micro/techopen/2022)
 
-밑에 내용은 작년도 기준 
+해당 내용은 작년도 기준 
 
-
-![[Pasted image 20230227193610.png]]
