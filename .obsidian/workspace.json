@@ -464,6 +464,30 @@
             }
           },
           {
+            "id": "0507b4bf0f32e889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38c0c8e70176a70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -480,7 +504,7 @@
             }
           }
         ],
-        "currentTab": 40
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -546,7 +570,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -563,7 +587,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -586,7 +610,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
+                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md"
               }
             }
           }
@@ -607,19 +631,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "78c3e1d82e3df551",
+  "active": "38c0c8e70176a70f",
   "lastOpenFiles": [
+    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
+    "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
+    "GamePatrol/보고서/Y/무제 파일.md",
+    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
+    "CS 과목/자료구조/README_자료구조.md",
     "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
     "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "conflict-files-obsidian-git.md",
-    "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/019.실패율/규칙 - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "알고리즘/017.크기가 작은 부분 문자열/T - 크기가 작은 부분 문자열.md",
     "알고리즘/016.k번째수/T - k번째수.md",
@@ -631,10 +661,6 @@
     "알고리즘/016.k번째수/K - K 번째수.md",
     "알고리즘/015.비밀지도/Y - 비밀지도.md",
     "알고리즘/015.비밀지도/K - 비밀지도.md",
-    "알고리즘/014.최소직사각형/K - 최소직사각형.md",
-    "알고리즘/014.최소직사각형/Y - 최소직사각형.md",
-    "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-    "알고리즘/017.크기가 작은 부분 문자열/test.java.md",
-    "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md"
+    "알고리즘/014.최소직사각형/K - 최소직사각형.md"
   ]
 }
