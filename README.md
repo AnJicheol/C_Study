@@ -29,3 +29,17 @@
 첫 실행시 pull 
 저장 할때 커밋 - > 풀 - > 푸쉬
 
+
+```java
+int[] array;
+
+for i = 0 to n-2 {// 배열의 크기 보다 1작은 만큼 반복
+	min = i;
+	for j =  i+1 to n-1 {// 배열 끝까지 탐색
+		if min < array[j]{ // 만약 배열에 있는값이 가장작으면
+			min = array[j] // min 교체
+		}
+	}
+	min과 array[i]의 swap작업 수행
+}
+```
