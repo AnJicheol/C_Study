@@ -488,6 +488,18 @@
             }
           },
           {
+            "id": "0e2b062f8334450d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -504,7 +516,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -570,7 +582,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+                "file": "all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -587,7 +599,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+                "file": "all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -610,7 +622,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md"
+                "file": "all.md"
               }
             }
           }
@@ -631,20 +643,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "38c0c8e70176a70f",
+  "active": "0e2b062f8334450d",
   "lastOpenFiles": [
-    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+    "0_MAIN_README.md",
+    "all.md",
+    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
+    "CS 과목/자료구조/README_자료구조.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20230227193610.png",
     "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
     "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
     "GamePatrol/보고서/Y/무제 파일.md",
-    "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
-    "CS 과목/자료구조/README_자료구조.md",
     "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
     "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "conflict-files-obsidian-git.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/019.실패율/규칙 - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
@@ -659,8 +674,6 @@
     "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
     "알고리즘/016.k번째수/Y - k번째수.md",
     "알고리즘/016.k번째수/K - K 번째수.md",
-    "알고리즘/015.비밀지도/Y - 비밀지도.md",
-    "알고리즘/015.비밀지도/K - 비밀지도.md",
-    "알고리즘/014.최소직사각형/K - 최소직사각형.md"
+    "알고리즘/015.비밀지도/Y - 비밀지도.md"
   ]
 }
