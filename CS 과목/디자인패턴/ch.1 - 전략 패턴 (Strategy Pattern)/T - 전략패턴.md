@@ -101,9 +101,6 @@ public interface item {
     public void use(); 
 }
 
-public class weapon extends inventory {}      
-public class armor extends inventory {}
-public class portion  extends inventory {}
 
 public class sword implements item{  
     public void use() {  
