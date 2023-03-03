@@ -55,7 +55,6 @@ public class weapon extends item {
 		System.out.println("공격 속도가 증가했습니다!");
 	}
 }
-
 public class sword extends weapon{
 	
 }

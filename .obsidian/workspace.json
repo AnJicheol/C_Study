@@ -500,6 +500,54 @@
             }
           },
           {
+            "id": "e0d22611da232a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44ae07a35262498b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adae90f818295741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "766a8df42153a467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -516,7 +564,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -582,7 +630,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -599,7 +647,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -622,7 +670,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
+                "file": "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md"
               }
             }
           }
@@ -643,15 +691,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e2b062f8334450d",
+  "active": "766a8df42153a467",
   "lastOpenFiles": [
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
+    "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
+    "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
+    "알고리즘/019.실패율/Y - 실패율.md",
+    "알고리즘/019.실패율/K - 실패율.md",
+    "알고리즘/019.실패율/규칙 - 실패율.md",
+    "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
+    "GamePatrol/보고서/K/2023 - 03 - 03.md",
+    "GamePatrol/보고서/T/2023 - 03 -02.md",
     "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
     "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
     "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
+    "GamePatrol/보고서/Y/무제 파일.md",
+    "conflict-files-obsidian-git.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "CS 과목/리눅스_서버/README_리눅스_서버.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
     "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
     "알고리즘/001.정수 제곱근 판별/Y - 정수 제곱근 판별.md",
     "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
@@ -661,16 +719,6 @@
     "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
     "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
     "알고리즘/005.하샤드 수/K - 하샤드 수.md",
-    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
-    "알고리즘/006.두 정수 사이의 합/Y-두 정수 사이의 합.md",
-    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-    "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-    "알고리즘/011.숫자 문자열과 영단어/T - 숫자 문자열과 영단어.md",
-    "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
-    "알고리즘/013.삼총사/K - 삼총사.md",
     "Pasted image 20230227193610.png",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
