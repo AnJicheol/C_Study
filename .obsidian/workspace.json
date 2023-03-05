@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "052141f8e12b7bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a551a20f1da8071b",
+  "active": "052141f8e12b7bd3",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
+    "conflict-files-obsidian-git.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "0_MAIN_README.md",
     "2023-03-05.md",
@@ -176,7 +189,6 @@
     "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
     "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/019.실패율/K - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
     "알고리즘/019.실패율/T - 실패율.md",
