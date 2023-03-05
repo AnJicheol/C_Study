@@ -536,6 +536,18 @@
             }
           },
           {
+            "id": "e7a2b0cf85552cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -552,7 +564,7 @@
             }
           }
         ],
-        "currentTab": 46
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -618,7 +630,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -635,7 +647,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -658,7 +670,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md"
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md"
               }
             }
           }
@@ -679,34 +691,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a85a93a9134e8c6e",
+  "active": "e7a2b0cf85552cd5",
   "lastOpenFiles": [
+    "CS 과목/자료구조/README_자료구조.md",
+    "all.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
-    "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+    "2023-03-05.md",
+    "0_MAIN_README.md",
+    "GamePatrol/보고서/Y/무제 파일.md",
+    "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
+    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
     "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
+    "GamePatrol/보고서/T/2023 - 03 -02.md",
+    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+    "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
+    "알고리즘/018.푸드 파이트 대회/T - 푸드 파이트 대회.md",
     "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
-    "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/019.실패율/K - 실패율.md",
+    "알고리즘/019.실패율/T - 실패율.md",
+    "알고리즘/019.실패율/Y - 실패율.md",
+    "무제 파일.canvas",
     "알고리즘/019.실패율/규칙 - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-    "GamePatrol/보고서/T/2023 - 03 -02.md",
-    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
-    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
-    "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
-    "GamePatrol/보고서/Y/무제 파일.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
-    "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
-    "알고리즘/001.정수 제곱근 판별/Y - 정수 제곱근 판별.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/Y - 문자열을 정수로 바꾸기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/Y - 정수 내림차순으로 배치하기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/T - 정수 내림차순으로 배치하기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
     "Pasted image 20230227193610.png",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
