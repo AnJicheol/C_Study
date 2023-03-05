@@ -70,7 +70,7 @@ public class DarkRoast extends Beverage{
 // 디자인 원칙 OCP : 클래스 확장에는 열려있어야하지만 변경에는 닫혀있어야한다.
 ```
 
-# 전략패턴 사용 후
+# 데코레이터패턴 사용 후
 ```java
 public abstract class Beverage {  
     String description = "제목 없음";  
@@ -163,3 +163,10 @@ public class StartbuzzCoffee {
 ex) 메서드에 추가하고 싶은 기능이 있는 객체를 감싸면 된다.(확장성)  
 
 ## 단점 : 자잘한 객체가 너무 많이 추가될 가능성이있으며, 필요이상으로 사용시에 코드가 너무 복잡해진다.
+
+
+# 과제
+-----------------------
+## 추상화와 캡슐화의 차이점
+## 왜 불필요한 메서드까지 상속하면 안되는지
+## 새로운 예제 만들어오기
