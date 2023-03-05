@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
+                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c3e71181e5521ef0",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
     "알고리즘/019.실패율/K - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",

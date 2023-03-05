@@ -15,7 +15,7 @@ public class insertionSort {
             int key = box[i]; // j보다 인덱스 한칸 뒤
             int j = i - 1; // 0부터 시작
             while (j >= 0 && box[j] > key) { 
-            // 뒤에서 부터 탐색, 자신보다 큰 수를 만나면 종료
+            // 자신보다 큰 수를 만나면 종료
                 box[j + 1] = box[j];
                 j--;
             }  
