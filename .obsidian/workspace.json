@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec2f0453b600617c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "effcddfc97e84c64",
+  "active": "ec2f0453b600617c",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.canvas",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
+    "2023-03-05.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/019.실패율/T - 실패율.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴",
     "알고리즘/019.실패율/Y - 실패율.md",
@@ -168,16 +186,11 @@
     "GamePatrol/보고서/K/무제 파일.md",
     "README.md",
     "Pasted image 20230227193610.png",
-    "conflict-files-obsidian-git.md",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "알고리즘/017.크기가 작은 부분 문자열/T - 크기가 작은 부분 문자열.md",
     "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
-    "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
-    "알고리즘/016.k번째수/K - K 번째수.md",
-    "알고리즘/016.k번째수/규칙 - K 번째수.md",
-    "알고리즘/016.k번째수/T - k번째수.md",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/과제",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할"
   ]
