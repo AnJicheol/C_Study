@@ -35,3 +35,20 @@ class Solution {
 }
 ```
 
+
+------------------------------------------------
+
+```
+김성민 피드백 
+
+replaceAll을 통해서 str에 있는 단어를 찾기 때문에 contains을 쓰지 않아도 된다.
+
+for(int i = 0; i < str.length; i++){        
+    if(s.contains(str[i])){    
+		s = s.replaceAll(str[i],String.valueOf(i));
+    }
+}
+ 
+
+```
+
