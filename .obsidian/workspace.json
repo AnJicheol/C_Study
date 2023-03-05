@@ -4,539 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a15811cba3cded",
+        "id": "052f9d86804a6c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "2aaea53054bdd4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1efad3ea1e4bdeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/README_자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58aca1a1e634642b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533804972acf37ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0797942423b1aa9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d78f51a88598e75d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19892bfd25551939",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48ddb886fcaea268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79b0936477c20336",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b45767df2d369684",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99093c338fb9028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbd08e5de4278e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0efd9b9944090c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef692109973788b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ca0951e9d6eadb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3469a645389d0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5defaec5688aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8050fa6717ee0c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f0608c65cfcd895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "227294199f2cbe19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a9d091289ecc4dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e45747475609202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6cb63f5946c485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d1b52f09ad20a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b282afebc0a904d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd376df7cf508a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d233fce68cba5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea545716f0310f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/012.시저 암호/K - 시저암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "999e5e2f756fa2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61924f04c1f05837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/012.시저 암호/T - 시저 암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009c2c36f0ed3bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce75a9404449441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/016.k번째수/규칙 - K 번째수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d930016529d4576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f702a248b9e45026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996242bac9bc8899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2ca0996ba7c84f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199352aa13906fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ff62a2f651c4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d8973e45f93a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/019.실패율/규칙 - 실패율.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c3e1d82e3df551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0507b4bf0f32e889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c0c8e70176a70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2b062f8334450d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44ae07a35262498b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adae90f818295741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "766a8df42153a467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a85a93a9134e8c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7a2b0cf85552cd5",
+            "id": "ea8312fa363c998d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -548,35 +20,19 @@
             }
           },
           {
-            "id": "d950b165c4dae5ce",
+            "id": "c3e71181e5521ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "da8b56b29b97df54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d62f7962792cd4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -608,7 +64,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -626,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -642,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -659,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -682,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md"
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
               }
             }
           }
@@ -703,36 +159,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d950b165c4dae5ce",
+  "active": "c3e71181e5521ef0",
   "lastOpenFiles": [
-    "알고리즘/019.실패율/Y - 실패율.md",
-    "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
-    "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
-    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
-    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "2023-03-05.md",
-    "GamePatrol/보고서/T/2023 - 03 -02.md",
-    "conflict-files-obsidian-git.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
-    "CS 과목/자료구조/README_자료구조.md",
-    "all.md",
-    "README.md",
-    "0_MAIN_README.md",
-    "GamePatrol/보고서/Y/무제 파일.md",
-    "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
-    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
-    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "알고리즘/018.푸드 파이트 대회/T - 푸드 파이트 대회.md",
-    "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
     "알고리즘/019.실패율/K - 실패율.md",
+    "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
+    "all.md",
+    "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
+    "GamePatrol/보고서/K/2023 - 02 -26 보고서.md",
+    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/019.실패율/T - 실패율.md",
+    "알고리즘/018.푸드 파이트 대회/T - 푸드 파이트 대회.md",
+    "GamePatrol/보고서/T/2023 - 03 -02.md",
+    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
+    "0_MAIN_README.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
+    "2023-03-05.md",
     "무제 파일.canvas",
+    "README.md",
+    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
+    "GamePatrol/README.md",
+    "CS 과목/자료구조/README_자료구조.md",
+    "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
+    "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/019.실패율/규칙 - 실패율.md",
-    "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-    "Pasted image 20230227193610.png",
+    "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할"
