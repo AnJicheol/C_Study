@@ -19,7 +19,7 @@ public class insertionSort {
                 box[j + 1] = box[j];
                 j--;
             }  
-            box[j + 1] = key;  
+            box[j + 1] = key; 
         }
   
         System.out.println(Arrays.toString(box));  
