@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea8312fa363c998d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -215,14 +227,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85e1cc7040b6b31e",
+  "active": "ea8312fa363c998d",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "conflict-files-obsidian-git.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
+    "알고리즘/019.실패율/T - 실패율.md",
+    "알고리즘/018.푸드 파이트 대회/T - 푸드 파이트 대회.md",
+    "GamePatrol/보고서/T/2023 - 03 -02.md",
+    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
+    "0_MAIN_README.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/README_디자인패턴.md",
     "2023-03-05.md",
     "무제 파일.canvas",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
     "GamePatrol/README.md",
@@ -239,12 +256,8 @@
     "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
     "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
     "GamePatrol/보고서/K/무제 파일.md",
-    "알고리즘/016.k번째수/규칙 - K 번째수.md",
     "알고리즘/019.실패율",
     "알고리즘/018.푸드 파이트 대회",
-    "알고리즘/016.k번째수/Y - k번째수.md",
-    "알고리즘/017.크기가 작은 부분 문자열/T - 크기가 작은 부분 문자열.md",
-    "알고리즘/016.k번째수/T - k번째수.md",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할"
   ]
 }
