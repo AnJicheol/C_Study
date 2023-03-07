@@ -23,7 +23,6 @@ public class insertionSort {
             }  
             box[j + 1] = key; 
         }
-  
         System.out.println(Arrays.toString(box));  
     }  
 }
