@@ -635,7 +635,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/022.체육복/K - 체육복.md",
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -724,7 +724,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/022.체육복/K - 체육복.md",
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -741,7 +741,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/022.체육복/K - 체육복.md",
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -764,7 +764,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/022.체육복/K - 체육복.md"
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md"
               }
             }
           }
@@ -787,8 +787,13 @@
   },
   "active": "409eec0e8eea661f",
   "lastOpenFiles": [
-    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/022.체육복/K - 체육복.md",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
     "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
     "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
     "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
@@ -798,12 +803,7 @@
     "알고리즘/023.완주하지 못한 선수",
     "알고리즘/022.체육복",
     "알고리즘/021.명예의 전당",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "GamePatrol/보고서/T/2023 - 03 -02.md",
     "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
     "GamePatrol/보고서/2023 - 02 - 21 보고서 -.md",
