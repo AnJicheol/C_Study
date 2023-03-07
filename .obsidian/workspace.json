@@ -560,18 +560,6 @@
             }
           },
           {
-            "id": "3c5634406249aeb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/021.명예의 전당.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1aedd8a29b460c44",
             "type": "leaf",
             "state": {
@@ -606,6 +594,54 @@
             }
           },
           {
+            "id": "2ae9644052dbfda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8008f2395abde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "265873a800c2082c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "409eec0e8eea661f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/022.체육복/K - 체육복.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -622,7 +658,7 @@
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 55
       }
     ],
     "direction": "vertical"
@@ -688,7 +724,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "알고리즘/022.체육복/K - 체육복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -705,7 +741,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+                "file": "알고리즘/022.체육복/K - 체육복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -728,7 +764,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md"
+                "file": "알고리즘/022.체육복/K - 체육복.md"
               }
             }
           }
@@ -749,10 +785,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2abe76cee4affc50",
+  "active": "409eec0e8eea661f",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "알고리즘/022.체육복/K - 체육복.md",
+    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
+    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+    "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
+    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
+    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/023.완주하지 못한 선수",
+    "알고리즘/022.체육복",
+    "알고리즘/021.명예의 전당",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
@@ -764,10 +811,8 @@
     "GamePatrol/보고서/T/2023 - 02 - 25 보고서.md",
     "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
     "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
-    "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
     "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
     "알고리즘/021.명예의 전당.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/020.1차 다트 게임",
     "CS 과목/자료구조/ch3.  함수의 증가/무제 파일.md",
     "CS 과목/자료구조/ch3.  함수의 증가",
@@ -775,18 +820,9 @@
     "CS 과목/자료구조/ch2. 정렬/과제",
     "CS 과목/자료구조/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
     "CS 과목/자료구조/ch2. 정렬",
-    "CS 과목/디자인패턴/ch.4 - 객체지향 빵 굽기/무제 파일.md",
     "CS 과목/디자인패턴/ch.4 - 객체지향 빵 굽기",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제/무제 파일.md",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/Y - 삽입정렬, 병합정렬.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/Y - 데코레이터 패턴.md",
-    "알고리즘/019.실패율/K - 실패율.md",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제",
     "무제 파일.canvas",
     "Pasted image 20230227193610.png"
   ]
