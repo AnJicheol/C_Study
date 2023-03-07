@@ -97,14 +97,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45324d4ebeee271a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c493a4aeca1262c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md"
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md"
               }
             }
           }
@@ -231,17 +255,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a0775dc73426edff",
+  "active": "2c493a4aeca1262c",
   "lastOpenFiles": [
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+    "알고리즘/025.키패드 누르기",
+    "알고리즘/024.기사단원의 무기",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
     "알고리즘/021.명예의 전당",
     "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-    "알고리즘/022.체육복/규칙 - 체육복.md",
     "알고리즘/023.완주하지 못한 선수",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/022.체육복",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
-    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "알고리즘/020.1차 다트 게임",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
@@ -259,10 +287,7 @@
     "CS 과목/자료구조/ch2. 정렬/과제",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-    "CS 과목/자료구조/ch2. 정렬",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
     "conflict-files-obsidian-git.md",
     "무제 파일 1.canvas",
     "알고리즘/019.실패율/T - 실패율.md",
@@ -270,7 +295,6 @@
     "알고리즘/019.실패율/K - 실패율.md",
     "알고리즘/018.푸드 파이트 대회/T - 푸드 파이트 대회.md",
     "알고리즘/018.푸드 파이트 대회/Y - 푸드 파이트 대회.md",
-    "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
     "Pasted image 20230227193610.png"
   ]
 }
