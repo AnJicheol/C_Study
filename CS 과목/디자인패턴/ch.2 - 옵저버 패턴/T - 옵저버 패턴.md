@@ -6,7 +6,7 @@
 
 # 정의 
 -------------------------------------------------------------------------
-## 객체의 상태가 바뀌면 그 객체에 의존허눈 다른 객체에게 연락이 가고 자동으로 갱신되는 방식 일대다 의존성을 정의
+## 객체의 상태가 바뀌면 그 객체에 의존하는 다른 객체에게 연락이 가고 자동으로 갱신되는 방식, 일대다 의존성을 정의
 
 
 
@@ -51,36 +51,33 @@ class test extends Thread {
 
 ```java
 
-Main.java
+//Main.java
 
 public class Main {  
     public static void main(String[] args) {  
-  
+		  
         pickup pick = new pickup();  
-  
+		  
         bread_basket bb = new bread_basket(pick);  
         fruit_basket fb = new fruit_basket(pick);  
-  
+		
         pick.pickup_food("apple");  
         pick.pickup_food("baguette");  
-  
+		  
     }  
 }```
-``` 
 
-```
+
 
 ```java
-
 //Subject.java
 
 public interface Subject {  
     public void add_basket(basket b);  
     public void remove_basket(basket b);  
     public void notifyBasket();  
-  
+    
 }
-
 
 ```
 
@@ -102,6 +99,7 @@ public class pickup implements Subject{
     public void add_basket(basket b){  
         basket_list.add(b);  
     }  
+    
     public void remove_basket(basket b){  
         basket_list.remove(b);  
     }  
@@ -110,7 +108,12 @@ public class pickup implements Subject{
         for(basket bs : basket_list) {  
             bs.update(food);  
         }  
+<<<<<<< HEAD
     }   
+=======
+    }  
+  
+>>>>>>> origin/master
 }
 
 ```
@@ -149,7 +152,7 @@ public class bread_basket implements basket, basketElement{
     @Override  
     public void update(String Food) {  
         this.food = Food;  
-        get();  
+        get(); 
     }  
   
     public void get(){  
@@ -184,8 +187,7 @@ public class fruit_basket implements basket, basketElement{
             System.out.println("과일 바구니 담기 완료");  
         }  
     }  
-  
-  
+	
 }
 ```
 

@@ -61,8 +61,6 @@ public class bow extends weapon{
 	
 }
 
-
-
 public class armor extends item {  
 	@Override
     public void use() {  
@@ -102,8 +100,7 @@ public interface item {
 
 public class sword implements item{  
     public void use() {  
-        System.out.println("공격력이 증가했습니다 !"); 
-         
+        System.out.println("공격력이 증가했습니다 !");  
     }  
 }
 
