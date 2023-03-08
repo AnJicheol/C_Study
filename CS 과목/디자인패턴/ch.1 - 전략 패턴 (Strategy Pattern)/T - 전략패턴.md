@@ -99,14 +99,13 @@ public interface item {
     public void use(); 
 }
 
-
 public class sword implements item{  
     public void use() {  
         System.out.println("공격력이 증가했습니다 !");  
     }  
 }
 
-public class health implements item{  
+public class health  item{  
     public void use() {  
         System.out.println("체력이 증가했습니다 !");  
     }  
