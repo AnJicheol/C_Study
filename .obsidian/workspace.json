@@ -20,127 +20,19 @@
             }
           },
           {
-            "id": "70e0b78cd54665ac",
+            "id": "b2966fb55b92ca93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead199d893f8e3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_MAIN_README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "719b33de8264c3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_MAIN_README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1cfce2cf3dd072c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8279b75fb5c125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2da084be2229815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0775dc73426edff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45324d4ebeee271a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c493a4aeca1262c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64975bc4a6d7a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/T/2023 - 03 - 07.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GamePatrol/보고서/T/2023 - 03 - 07.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GamePatrol/보고서/T/2023 - 03 - 07.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GamePatrol/보고서/T/2023 - 03 - 07.md"
+                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md"
               }
             }
           }
@@ -267,45 +159,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b64975bc4a6d7a03",
+  "active": "b2966fb55b92ca93",
   "lastOpenFiles": [
-    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+    "알고리즘/026.크레인 인형뽑기 게임",
+    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "0_MAIN_README.md",
+    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
+    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
+    "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
     "GamePatrol/보고서/T/2023 - 03 - 07.md",
+    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
     "GamePatrol/보고서/T/2023 - 03 - 02.md",
     "GamePatrol/보고서/보고서 양식.md",
     "GamePatrol/보고서/Y/무제 파일.md",
-    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
     "conflict-files-obsidian-git.md",
-    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
     "알고리즘/022.체육복/K - 체육복.md",
-    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
     "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
     "GamePatrol/보고서/K/2023 - 03 - 05.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
     "알고리즘/025.키패드 누르기",
     "알고리즘/024.기사단원의 무기",
-    "알고리즘/022.체육복/규칙 - 체육복.md",
     "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
     "알고리즘/021.명예의 전당",
-    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
     "알고리즘/023.완주하지 못한 선수",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "알고리즘/022.체육복",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
-    "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "알고리즘/020.1차 다트 게임",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "0_MAIN_README.md",
-    "CS 과목/자료구조/ch3.  함수의 증가/무제 파일.md",
     "CS 과목/자료구조/ch3.  함수의 증가",
-    "CS 과목/자료구조/README_자료구조.md",
-    "CS 과목/자료구조/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
     "CS 과목/디자인패턴/ch.4 - 객체지향 빵 굽기",
     "무제 파일.canvas",
     "CS 과목/자료구조/ch2. 정렬/과제",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제",
     "무제 파일 1.canvas",
     "Pasted image 20230227193610.png"
   ]
