@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e39b3b8166df6c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md"
+                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b2966fb55b92ca93",
+  "active": "e39b3b8166df6c25",
   "lastOpenFiles": [
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+    "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+    "알고리즘/027.둘만의 암호",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "알고리즘/026.크레인 인형뽑기 게임",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "0_MAIN_README.md",
@@ -193,11 +207,9 @@
     "알고리즘/022.체육복",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "알고리즘/020.1차 다트 게임",
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "CS 과목/자료구조/ch3.  함수의 증가",
     "CS 과목/디자인패턴/ch.4 - 객체지향 빵 굽기",
     "무제 파일.canvas",
-    "CS 과목/자료구조/ch2. 정렬/과제",
     "무제 파일 1.canvas",
     "Pasted image 20230227193610.png"
   ]
