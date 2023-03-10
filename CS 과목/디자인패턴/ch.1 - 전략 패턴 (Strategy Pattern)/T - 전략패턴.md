@@ -1,6 +1,5 @@
 
 
-
 # 전략패턴 (Strategy Pattern)
 ------------------------------------------------------------------------
 
@@ -44,6 +43,7 @@ public class portion{
 
 해당 코드는 같은 메서드가 중복되는 것을 알 수 있는데 이것을 상속으로 해결할 수 있다.
 
+
 public abstract class item {
 	public abstract void use();
 }
@@ -55,14 +55,13 @@ public class weapon extends item {
 		System.out.println("공격 속도가 증가했습니다!");
 	}
 }
+
 public class sword extends weapon{
 	
 }
 public class bow extends weapon{
 	
 }
-
-
 
 public class armor extends item {  
 	@Override
@@ -103,8 +102,7 @@ public interface item {
 
 public class sword implements item{  
     public void use() {  
-        System.out.println("공격력이 증가했습니다 !"); 
-         
+        System.out.println("공격력이 증가했습니다 !");  
     }  
 }
 

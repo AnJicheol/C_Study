@@ -108,8 +108,12 @@ public class pickup implements Subject{
         for(basket bs : basket_list) {  
             bs.update(food);  
         }  
+<<<<<<< HEAD
+    }   
+=======
     }  
   
+>>>>>>> origin/master
 }
 
 ```
