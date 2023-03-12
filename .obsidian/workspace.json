@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1efad3ea1e4bdeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/README_자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58aca1a1e634642b",
             "type": "leaf",
             "state": {
@@ -404,36 +392,12 @@
             }
           },
           {
-            "id": "33ff62a2f651c4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "96d8973e45f93a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "알고리즘/019.실패율/규칙 - 실패율.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c3e1d82e3df551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -458,18 +422,6 @@
               "type": "markdown",
               "state": {
                 "file": "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2b062f8334450d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -524,30 +476,6 @@
             }
           },
           {
-            "id": "e7a2b0cf85552cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d950b165c4dae5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49e5fbb8c5931cb1",
             "type": "leaf",
             "state": {
@@ -566,30 +494,6 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "ed881e450902afe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2abe76cee4affc50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -630,18 +534,6 @@
             }
           },
           {
-            "id": "409eec0e8eea661f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5864bd3ebc1c383f",
             "type": "leaf",
             "state": {
@@ -666,18 +558,6 @@
             }
           },
           {
-            "id": "3c6b464d2d333364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4605de5a580df733",
             "type": "leaf",
             "state": {
@@ -690,12 +570,24 @@
             }
           },
           {
-            "id": "6efba5c7d662ca91",
+            "id": "4c13683dfb770933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ddd62eb93399ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
                 "mode": "source",
                 "source": false
               }
@@ -718,7 +610,7 @@
             }
           }
         ],
-        "currentTab": 60
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -784,7 +676,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
+                "file": "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -801,7 +693,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
+                "file": "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -824,7 +716,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md"
+                "file": "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md"
               }
             }
           }
@@ -845,45 +737,47 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6efba5c7d662ca91",
+  "active": "b0ddd62eb93399ad",
   "lastOpenFiles": [
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
+    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
+    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
+    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
+    "알고리즘/024.기사단원의 무기/T - 기사단원의 무기.md",
+    "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
+    "알고리즘/022.체육복/T - 체육복.md",
+    "알고리즘/021.명예의 전당/T - 명예의 전당.md",
+    "알고리즘/020.1차 다트 게임/T - 1차 다트 게임.md",
+    "무제 파일.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "CS 과목/알고리즘/ch2. 정렬/과제/무제 파일.md",
+    "CS 과목/알고리즘/ch3.  함수의 증가/무제 파일.md",
+    "CS 과목/알고리즘/ch2. 정렬/과제",
+    "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
+    "CS 과목/알고리즘/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "CS 과목/알고리즘/ch3.  함수의 증가",
+    "CS 과목/알고리즘/ch2. 정렬",
+    "CS 과목/알고리즘/ch.1 - 알고리즘의 역할",
+    "CS 과목/알고리즘/README_자료구조.md",
+    "CS 과목/알고리즘",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
     "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
     "알고리즘/README.md",
     "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
     "GamePatrol/보고서/K/2023 - 03 - 05 보고서.md",
-    "GamePatrol/보고서/K/2023 - 03 - 03 보고서.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/027.둘만의 암호",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "알고리즘/026.크레인 인형뽑기 게임",
-    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-    "CS 과목/자료구조/README_자료구조.md",
     "알고리즘/025.키패드 누르기",
     "알고리즘/024.기사단원의 무기",
-    "GamePatrol/보고서/보고서 양식.md",
-    "GamePatrol/보고서/T/2023 - 03 - 07.md",
-    "GamePatrol/보고서/T/2023 - 03 - 02.md",
-    "알고리즘/022.체육복/K - 체육복.md",
-    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
-    "알고리즘/022.체육복/규칙 - 체육복.md",
     "알고리즘/023.완주하지 못한 선수",
-    "알고리즘/022.체육복",
-    "알고리즘/021.명예의 전당",
-    "알고리즘/020.1차 다트 게임",
-    "CS 과목/자료구조/ch3.  함수의 증가",
-    "CS 과목/자료구조/ch2. 정렬/과제",
-    "무제 파일.canvas",
     "Pasted image 20230227193610.png"
   ]
 }
