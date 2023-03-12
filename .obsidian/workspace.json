@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f788551175f74e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff18ce88d12fbcf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0_MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0_MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0_MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0_MAIN_README.md"
               }
             }
           }
@@ -171,39 +146,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ff18ce88d12fbcf4",
+  "active": "7b1f5dab85946d9e",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
+    "무제 파일 5.canvas",
+    "알고리즘/025.키패드 누르기/Y - 키패드 누르기.md",
+    "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
+    "알고리즘/024.기사단원의 무기/T - 기사단원의 무기.md",
+    "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
     "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
+    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
+    "알고리즘/023.완주하지 못한 선수/Y - 완주하지 못한 선수.md",
+    "알고리즘/022.체육복/T - 체육복.md",
+    "알고리즘/022.체육복/Y - 체육복.md",
+    "알고리즘/022.체육복/K - 체육복.md",
+    "알고리즘/021.명예의 전당/T - 명예의 전당.md",
+    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
+    "알고리즘/021.명예의 전당/!!박제 !!  Y - 명예의 전당.md",
+    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+    "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+    "무제 파일 4.canvas",
+    "무제 파일 3.canvas",
+    "알고리즘/020.1차 다트 게임/T - 1차 다트 게임.md",
+    "알고리즘/020.1차 다트 게임/Y - 1차 다트 게임.md",
+    "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "알고리즘/025.키패드 누르기/Y - 키패드 누르기.md",
-    "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
-    "알고리즘/023.완주하지 못한 선수/Y - 완주하지 못한 선수.md",
-    "알고리즘/022.체육복/Y - 체육복.md",
-    "알고리즘/021.명예의 전당/Y - 명예의 전당.md",
-    "알고리즘/020.1차 다트 게임/Y - 1차 다트 게임.md",
     "GamePatrol/보고서/K/2023 - 03 - 05 보고서.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
-    "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
-    "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
-    "알고리즘/011.숫자 문자열과 영단어/T - 숫자 문자열과 영단어.md",
-    "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
-    "알고리즘/006.두 정수 사이의 합/Y-두 정수 사이의 합.md",
-    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
-    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
-    "무제 파일 2.canvas",
-    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "CS 과목/자료구조/ch1.자료구조의 이해",
     "CS 과목/자료구조",
     "알고리즘/027.둘만의 암호",
