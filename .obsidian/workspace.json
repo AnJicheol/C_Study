@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md"
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c7f788551175f74e",
   "lastOpenFiles": [
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
     "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
