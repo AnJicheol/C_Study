@@ -25,8 +25,6 @@ System.out.println(jinRamen.getRamen()+" : "+" 가격 "+jinRamen.cost()+"원 맵
 
 }
 
-  
-
 // 라면
 
 abstract class Ramen{
