@@ -4,155 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33c9cfe5839cf246",
+        "id": "24e68c9e2abd0575",
         "type": "tabs",
         "children": [
           {
-            "id": "4aef0b2cfc969892",
+            "id": "7b1f5dab85946d9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2966fb55b92ca93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e39b3b8166df6c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3144ba5b0048cc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a07cc561c67b807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1a02517f066f236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34935725659b8c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27b7b7d5cf62b13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4efc237911b64a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c15dd96dd3af2e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75f56a793a830367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a5e8708d3180c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -279,14 +138,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6a5e8708d3180c2f",
+  "active": "effcddfc97e84c64",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/무제 파일.md",
+    "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
+    "알고리즘/011.숫자 문자열과 영단어/T - 숫자 문자열과 영단어.md",
+    "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
+    "알고리즘/006.두 정수 사이의 합/Y-두 정수 사이의 합.md",
+    "알고리즘/006.두 정수 사이의 합/T - 두 정수 사이의 합.md",
+    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
+    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
+    "무제 파일 2.canvas",
+    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "conflict-files-obsidian-git.md",
     "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
-    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제/무제 파일.md",
     "CS 과목/자료구조/ch1.자료구조의 이해/T - 자료구조의 이해.md",
     "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
@@ -294,21 +170,7 @@
     "CS 과목/자료구조/자료구조의 이해.md",
     "CS 과목/자료구조/ch1.자료구조의 이해",
     "CS 과목/자료구조",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
-    "알고리즘/README.md",
-    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
-    "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
-    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
-    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-    "알고리즘/024.기사단원의 무기/T - 기사단원의 무기.md",
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-    "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
-    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
-    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
     "알고리즘/027.둘만의 암호",
     "알고리즘/026.크레인 인형뽑기 게임",
     "알고리즘/025.키패드 누르기",
@@ -317,8 +179,6 @@
     "알고리즘/023.완주하지 못한 선수",
     "알고리즘/022.체육복",
     "알고리즘/020.1차 다트 게임",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas",
     "Pasted image 20230227193610.png"
   ]
 }
