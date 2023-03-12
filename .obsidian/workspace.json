@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a5e8708d3180c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -267,8 +279,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "effcddfc97e84c64",
+  "active": "6a5e8708d3180c2f",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/K - 전략패턴 과제.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제/무제 파일.md",
     "CS 과목/자료구조/ch1.자료구조의 이해/T - 자료구조의 이해.md",
@@ -277,7 +294,6 @@
     "CS 과목/자료구조/자료구조의 이해.md",
     "CS 과목/자료구조/ch1.자료구조의 이해",
     "CS 과목/자료구조",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
@@ -293,10 +309,6 @@
     "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
     "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
     "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-    "알고리즘/022.체육복/T - 체육복.md",
-    "알고리즘/022.체육복/규칙 - 체육복.md",
-    "알고리즘/021.명예의 전당/T - 명예의 전당.md",
-    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
     "알고리즘/027.둘만의 암호",
     "알고리즘/026.크레인 인형뽑기 게임",
     "알고리즘/025.키패드 누르기",
