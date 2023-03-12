@@ -49,6 +49,9 @@ class test extends Thread {
 
 ```
 
+
+## 옵저버 패턴 사용 후
+
 ```java
 
 //Main.java
@@ -108,12 +111,10 @@ public class pickup implements Subject{
         for(basket bs : basket_list) {  
             bs.update(food);  
         }  
-<<<<<<< HEAD
     }   
-=======
+
     }  
-  
->>>>>>> origin/master
+
 }
 
 ```

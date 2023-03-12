@@ -37,14 +37,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3144ba5b0048cc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a07cc561c67b807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1a02517f066f236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34935725659b8c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27b7b7d5cf62b13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4efc237911b64a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15dd96dd3af2e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f56a793a830367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -110,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md"
+                "file": "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md"
               }
             }
           }
@@ -171,44 +267,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e39b3b8166df6c25",
+  "active": "effcddfc97e84c64",
   "lastOpenFiles": [
-    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-    "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
-    "알고리즘/027.둘만의 암호",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
-    "알고리즘/026.크레인 인형뽑기 게임",
-    "CS 과목/자료구조/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
-    "0_MAIN_README.md",
     "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/T - 옵저버 패턴.md",
+    "CS 과목/디자인패턴/ch.2 - 옵저버 패턴/과제/무제 파일.md",
+    "CS 과목/자료구조/ch1.자료구조의 이해/T - 자료구조의 이해.md",
+    "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
+    "CS 과목/알고리즘/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "CS 과목/자료구조/자료구조의 이해.md",
+    "CS 과목/자료구조/ch1.자료구조의 이해",
+    "CS 과목/자료구조",
+    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/Y - 데코레이터 패턴.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
-    "알고리즘/022.체육복/규칙 - 체육복.md",
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
-    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
-    "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
-    "GamePatrol/보고서/T/2023 - 03 - 07.md",
-    "GamePatrol/보고서/T/2023 - 03 - 03 보고서.md",
-    "GamePatrol/보고서/T/2023 - 03 - 02.md",
-    "GamePatrol/보고서/보고서 양식.md",
-    "GamePatrol/보고서/Y/무제 파일.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/022.체육복/K - 체육복.md",
-    "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
-    "GamePatrol/보고서/K/2023 - 03 - 05.md",
+    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일 1.md",
+    "알고리즘/README.md",
+    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
+    "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
+    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+    "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
+    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
+    "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
+    "알고리즘/024.기사단원의 무기/T - 기사단원의 무기.md",
+    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
+    "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
+    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
+    "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
+    "알고리즘/022.체육복/T - 체육복.md",
+    "알고리즘/022.체육복/규칙 - 체육복.md",
+    "알고리즘/021.명예의 전당/T - 명예의 전당.md",
+    "알고리즘/021.명예의 전당/K - 명예의 전당.md",
+    "알고리즘/027.둘만의 암호",
+    "알고리즘/026.크레인 인형뽑기 게임",
     "알고리즘/025.키패드 누르기",
     "알고리즘/024.기사단원의 무기",
-    "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
     "알고리즘/021.명예의 전당",
     "알고리즘/023.완주하지 못한 선수",
     "알고리즘/022.체육복",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/과제/무제 파일.md",
     "알고리즘/020.1차 다트 게임",
-    "CS 과목/자료구조/ch3.  함수의 증가",
-    "CS 과목/디자인패턴/ch.4 - 객체지향 빵 굽기",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Pasted image 20230227193610.png"
