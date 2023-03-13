@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66e41d55bd274e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a95226749554645d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "568eeac2636d8d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md"
               }
             }
           }
@@ -146,8 +183,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7b1f5dab85946d9e",
+  "active": "568eeac2636d8d82",
   "lastOpenFiles": [
+    "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
+    "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+    "알고리즘/030.바탕화면 정리",
+    "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
+    "알고리즘/029.신고 결과 받기",
+    "0_MAIN_README.md",
+    "알고리즘/028.개인정보 수집 유효기간",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
@@ -176,19 +220,13 @@
     "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "GamePatrol/보고서/K/2023 - 03 - 05 보고서.md",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제/K - 데코리에터 패턴 과제.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
-    "CS 과목/디자인패턴/ch.1 - 전략 패턴 (Strategy Pattern)/T - 전략패턴.md",
     "CS 과목/자료구조/ch1.자료구조의 이해",
     "CS 과목/자료구조",
     "알고리즘/027.둘만의 암호",
     "알고리즘/026.크레인 인형뽑기 게임",
     "알고리즘/025.키패드 누르기",
-    "알고리즘/024.기사단원의 무기",
-    "알고리즘/021.명예의 전당",
-    "알고리즘/023.완주하지 못한 선수",
     "Pasted image 20230227193610.png"
   ]
 }
