@@ -594,6 +594,18 @@
             }
           },
           {
+            "id": "f5012ebeef36f716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -610,7 +622,7 @@
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -676,7 +688,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -693,7 +705,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -716,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -737,10 +749,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b0ddd62eb93399ad",
+  "active": "f5012ebeef36f716",
   "lastOpenFiles": [
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
+    "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
+    "알고리즘/021.명예의 전당/!!박제 !!  Y - 명예의 전당.md",
     "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
     "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
     "알고리즘/025.키패드 누르기/Y - 키패드 누르기.md",
     "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
@@ -757,7 +772,6 @@
     "알고리즘/021.명예의 전당/Y - 명예의 전당.md",
     "알고리즘/021.명예의 전당/K - 명예의 전당.md",
     "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/020.1차 다트 게임/Y - 1차 다트 게임.md",
     "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
     "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
@@ -766,8 +780,6 @@
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "CS 과목/알고리즘/ch2. 정렬/과제/무제 파일.md",
-    "CS 과목/알고리즘/ch3.  함수의 증가/무제 파일.md",
     "CS 과목/알고리즘/ch2. 정렬/과제",
     "CS 과목/알고리즘/ch3.  함수의 증가",
     "CS 과목/알고리즘/ch2. 정렬",

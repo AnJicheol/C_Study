@@ -16,7 +16,10 @@
 -   7 ≤ `score`의 길이 ≤ 1,000
     -   0 ≤ `score[i]` ≤ 2,000
 
+
+
 ```java
+
 import java.util.*;
 
 class Solution {
@@ -26,7 +29,8 @@ class Solution {
         boolean count = true;
         answer[0] = score[0];
         box.add(score[0]);
-        
+		
+		
         for(int i = 1; i < score.length; i++){
             if(score[i] >= box.get(0)){ 
                 for(int j = 0; j < box.size(); j++){ // 정렬
@@ -52,4 +56,5 @@ class Solution {
         return answer;
     }
 }
+
 ```
