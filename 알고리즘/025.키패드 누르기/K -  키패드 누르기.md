@@ -1,4 +1,5 @@
 
+
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 
 
@@ -60,7 +61,7 @@ function solution(numbers, hand) {
                 answer+='R'
                 R = [3,3]
                 break;
-
+				
             default:
                 var test = Math.floor(numbers[count]%3 + numbers[count]/3)-1 // y 좌표
                 if(numbers[count] == 0) test = 4 // y -1 이기때문에 0으로 바꿔줌
