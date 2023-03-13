@@ -3,8 +3,6 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 
-
-
 ###### 문제 설명
 
 게임개발자인 "죠르디"는 크레인 인형뽑기 기계를 모바일 게임으로 만들려고 합니다.  
