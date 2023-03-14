@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebf9504d89634440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+                "file": "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+                "file": "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md"
+                "file": "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md"
               }
             }
           }
@@ -183,10 +195,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "568eeac2636d8d82",
+  "active": "ebf9504d89634440",
   "lastOpenFiles": [
-    "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+    "알고리즘/031.빛의 경로 사이클",
+    "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/030.바탕화면 정리",
     "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
     "알고리즘/029.신고 결과 받기",
@@ -219,14 +233,12 @@
     "알고리즘/020.1차 다트 게임/Y - 1차 다트 게임.md",
     "알고리즘/020.1차 다트 게임/K - 1차 다트 게임.md",
     "conflict-files-obsidian-git.md",
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
     "CS 과목/자료구조/ch1.자료구조의 이해",
     "CS 과목/자료구조",
     "알고리즘/027.둘만의 암호",
     "알고리즘/026.크레인 인형뽑기 게임",
-    "알고리즘/025.키패드 누르기",
     "Pasted image 20230227193610.png"
   ]
 }
