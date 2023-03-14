@@ -43,12 +43,10 @@ function solution(board, moves) {
             if(board[j][m]!=0){ //0이 아닌 숫자를 찾아서 추가
                 arr[count] =  board[j][m]
                 board[j][m] = 0
-                
                 if(arr[count] == arr[count-1]){ // 같을때
                     answer += 2   
                     count -=2
                 }
-                  
                 break
             }
         }
