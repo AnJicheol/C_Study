@@ -642,6 +642,42 @@
             }
           },
           {
+            "id": "a36bf41d9aaff0c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/033.구명보트/규칙 - 구명보트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8d19aae7398a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afbc4398baaf8d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -658,7 +694,7 @@
             }
           }
         ],
-        "currentTab": 55
+        "currentTab": 58
       }
     ],
     "direction": "vertical"
@@ -724,7 +760,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -741,7 +777,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -764,7 +800,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -785,13 +821,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "76ba58c3f41d9914",
+  "active": "afbc4398baaf8d14",
   "lastOpenFiles": [
+    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
     "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
-    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+    "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
+    "알고리즘/033.구명보트/K - 구명보트.md",
+    "알고리즘/033.구명보트/규칙 - 구명보트.md",
     "conflict-files-obsidian-git.md",
+    "알고리즘/033.구명보트",
+    "알고리즘/032.단체사진 찍기",
+    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "알고리즘/031.빛의 경로 사이클",
     "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
     "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
@@ -799,7 +841,6 @@
     "알고리즘/030.바탕화면 정리",
     "알고리즘/029.신고 결과 받기",
     "알고리즘/028.개인정보 수집 유효기간",
-    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
     "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
     "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
     "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
@@ -814,9 +855,6 @@
     "알고리즘/023.완주하지 못한 선수/Y - 완주하지 못한 선수.md",
     "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
     "알고리즘/022.체육복/T - 체육복.md",
-    "알고리즘/022.체육복/Y - 체육복.md",
-    "알고리즘/022.체육복/K - 체육복.md",
-    "알고리즘/021.명예의 전당/T - 명예의 전당.md",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
@@ -824,8 +862,6 @@
     "CS 과목/알고리즘/ch3.  함수의 증가",
     "CS 과목/알고리즘/ch2. 정렬",
     "CS 과목/알고리즘/ch.1 - 알고리즘의 역할",
-    "CS 과목/알고리즘",
-    "알고리즘/027.둘만의 암호",
     "Pasted image 20230227193610.png"
   ]
 }
