@@ -1,4 +1,6 @@
 
+
+
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 ###### 문제 설명
@@ -89,32 +91,48 @@ C
     -   `DD`가 한 자릿수인 경우 앞에 0이 붙습니다.
 -   파기해야 할 개인정보가 하나 이상 존재하는 입력만 주어집니다.
 
-~~~~ js
-function solution(today, terms, privacies) {
-    var answer = [];
-    var index = 0;
-    for(var i=0; i<privacies.length; i++){
-        for(var j=0; j<terms.length; j++){
-            if(terms[j].charAt(0) == privacies[i].charAt(privacies[i].length-1)){ 
-                var test = terms[j].split(' ') // test[1] = 달
-                var result = (privacies[i].substr(5,2)*1) + (test[1]*1) // privacies 달에  terms만큼 더 해준다.
-                result += (privacies[i].substr(0,4) - today.substr(0,4)) * 12 // privacies 해와  today 해를 비교해서 그만큼 달에 더해준다.
-                break;
+```java
+import java.util.*;
+
+class Solution {
+    public int[] solution(String today, String[] terms, String[] privacies) {
+        int[] box = new int[privacies.length];
+        int index = 0;
+        
+        int today_num = Integer.parseInt(today.substring(0,4)) * 28 * 12;
+        today_num += Integer.parseInt(today.substring(5,7)) * 28;
+        today_num += Integer.parseInt(today.substring(8,10));
+        
+        for(int i = 0; i < privacies.length; i++){
+            int plus = 0;
+            int privacies_num = Integer.parseInt(privacies[i].substring(0,4)) * 28 * 12;
+            privacies_num += Integer.parseInt(privacies[i].substring(5,7)) * 28;
+            privacies_num += Integer.parseInt(privacies[i].substring(8,10)) - 1;
+            
+            if(today_num <= privacies_num){continue;}
+            
+            for(int j = 0; j < terms.length; j++){
+                if(privacies[i].charAt(privacies[i].length()-1) == terms[j].charAt(0)){
+                    plus = Integer.parseInt(terms[j].split(" ")[1]);
+                    // System.out.println(terms[j] + " " + plus);
+                    break;
+                }
+            }
+            privacies_num += plus * 28;
+            // System.out.println(today_num + " " + privacies_num);
+            if(today_num > privacies_num){
+                box[index] = i+1;
+                index++;
             }
         }
-        if(result < today.substr(5,2)){ // 달만 비교 
-            answer[index] = i+1
-            index++
+        // System.out.println(Arrays.toString(box));
+        
+        int[] answer = new int[index];
+        for(int i = 0; i < index; i++){
+            answer[i] = box[i];
         }
-        if(result == today.substr(5,2)){ // 같을 경우 일 비교
-            if(privacies[i].substr(8,2) <= today.substr(8,2)){ 
-                answer[index] = i+1
-                index++
-            }
-        }
+        
+        return answer;
     }
-    
-    
-    return answer;
 }
-~~~~
+```
