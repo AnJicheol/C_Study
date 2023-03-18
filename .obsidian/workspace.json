@@ -671,7 +671,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/033.구명보트/K - 구명보트.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
                 "mode": "source",
                 "source": false
               }
@@ -760,7 +760,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/033.구명보트/K - 구명보트.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -777,7 +777,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/033.구명보트/K - 구명보트.md",
+                "file": "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -800,7 +800,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/033.구명보트/K - 구명보트.md"
+                "file": "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md"
               }
             }
           }
@@ -823,6 +823,7 @@
   },
   "active": "c68810d2feebc964",
   "lastOpenFiles": [
+    "알고리즘/033.구명보트/K - 구명보트.md",
     "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
     "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
@@ -830,7 +831,6 @@
     "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
     "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
     "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-    "알고리즘/033.구명보트/K - 구명보트.md",
     "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
