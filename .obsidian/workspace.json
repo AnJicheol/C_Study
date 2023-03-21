@@ -18,117 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "66e41d55bd274e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a95226749554645d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "568eeac2636d8d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebf9504d89634440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GamePatrol/보고서/K/2023 - 03 - 05 보고서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff4ede424c35b1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05016b451cecca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ebdaa56a11e0147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b13ac92103426b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b639d5642c13c9d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+                "file": "0_MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+                "file": "0_MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md"
+                "file": "0_MAIN_README.md"
               }
             }
           }
@@ -255,46 +146,47 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "effcddfc97e84c64",
+  "active": "7b1f5dab85946d9e",
   "lastOpenFiles": [
-    "알고리즘/033.구명보트/T - 구명보트.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/033.구명보트/K - 구명보트.md",
-    "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
-    "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
-    "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-    "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
-    "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
-    "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-    "알고리즘/033.구명보트/규칙 - 구명보트.md",
-    "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
-    "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
-    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+    "GamePatrol/README.md",
     "0_MAIN_README.md",
-    "알고리즘/033.구명보트",
+    "GamePatrol/보고서/보고서 양식.md",
+    "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
+    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+    "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
+    "알고리즘/030.바탕화면 정리/Y - 바탕화면 정리.md",
+    "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
+    "알고리즘/028.개인정보 수집 유효기간/T - 개인정보 수집 유효기간.md",
+    "알고리즘/028.개인정보 수집 유효기간/Y - 개인정보 수집 유효기간.md",
+    "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.canvas",
+    "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
+    "무제 파일 6.canvas",
+    "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
+    "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
+    "무제 파일 5.canvas",
+    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
+    "무제 파일 4.canvas",
+    "알고리즘/027.둘만의 암호/Y - 둘만의 암호.md",
     "GamePatrol/보고서/K/2023 - 03 - 05 보고서.md",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
+    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
+    "알고리즘/026.크레인 인형뽑기 게임/Y - 크레인 인형뽑기 게임.md",
+    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
+    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
+    "알고리즘/033.구명보트/Y - 구명보트.md",
+    "알고리즘/033.구명보트/T - 구명보트.md",
+    "알고리즘/033.구명보트",
     "알고리즘/032.단체사진 찍기",
-    "GamePatrol/보고서/Y/무제 파일.md",
-    "GamePatrol/보고서/T/2023 - 03 - 07.md",
-    "알고리즘/README.md",
     "알고리즘/031.빛의 경로 사이클",
     "알고리즘/030.바탕화면 정리",
     "알고리즘/029.신고 결과 받기",
     "알고리즘/028.개인정보 수집 유효기간",
-    "무제 파일.canvas",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
-    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
-    "무제 파일 5.canvas",
-    "알고리즘/025.키패드 누르기/Y - 키패드 누르기.md",
-    "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
-    "알고리즘/024.기사단원의 무기/T - 기사단원의 무기.md",
-    "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
-    "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-    "알고리즘/023.완주하지 못한 선수/T - 완주하지 못한 선수.md",
-    "무제 파일 4.canvas",
-    "무제 파일 3.canvas",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
     "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
     "CS 과목/자료구조/ch1.자료구조의 이해",

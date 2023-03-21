@@ -26,23 +26,25 @@
     -   `skip`에 포함되는 알파벳은 `s`에 포함되지 않습니다.
 -   1 ≤ `index` ≤ 20
 
-~~~~ js
-function solution(s, skip, index) {
-    var answer = '';
-    var str = 'abcdefghijklmnopqrstuvwxyz'
-    var str_index = 0;
-	
-    for(var i=0; i<skip.length; i++){  // skip 지움
-        str = str.replace(skip.charAt(i),"")
+```java
+class Solution {
+    public String solution(String s, String skip, int index) {
+        StringBuilder answer = new StringBuilder();
+        
+        
+        // System.out.println((int)'z');
+        for(int i= 0; i < s.length(); i++){
+            char ch = s.charAt(i);
+            for(int j = 1; j <= index; j++){
+                ch++;
+                if(ch > 'z'){ch -= 26;}
+                if(skip.contains(String.valueOf(ch))){j--;}
+            }
+            // System.out.println(ch);
+            answer.append(ch);
+        }
+        
+        return answer.toString();
     }
-    
-    for(var i=0; i<s.length; i++){
-        str_index = str.indexOf(s.charAt(i))
-        str_index += index
-        if(str_index > str.length-1) str_index %= str.length // str_index가 z 보다 크면 str 길이만큼 나눔
-        answer += str.charAt(str_index)
-    }
-	
-    return answer;
 }
-~~~~
+```

@@ -1,7 +1,8 @@
 
 
-
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+
+
 
 ###### 문제 설명
 
@@ -32,39 +33,37 @@
 -   moves 배열 각 원소들의 값은 1 이상이며 board 배열의 가로 크기 이하인 자연수입니다.
 
 ```java
+import java.util.*;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.*;
 
 class Solution {
     public int solution(int[][] board, int[] moves) {
-        Deque<Integer> stack = new ArrayDeque<Integer>(moves.length + 1);
         int answer = 0;
+        int[] box = new int[moves.length]; // moves의 길이만큼 배열 크기를 정함
+        int index = 0; //box의 index
         
-        stack.push(0);
         
-        for(int i = 0; i < moves.length; i++){
-            int len = moves[i] - 1;
-            
+        for(int i = 0; i < moves.length;i++){
             for(int j = 0; j < board.length; j++){
-                
-                if(board[j][len] == 0) continue;
-                if(stack.peek() == board[j][len]){
+                if(board[j][moves[i]-1] != 0){
+                    box[index] = board[j][moves[i]-1];
+                    board[j][moves[i]-1] = 0;
+                    //System.out.println(Arrays.toString(box));
+                    if(index != 0 && box[index-1] == box[index]){
+                        //System.out.println(Arrays.toString(box));
+                        index -= 2;
+                        //System.out.println(box[index]);
+                        answer += 2;
+                    }
                     
-                    board[j][len] = 0;
-                    stack.pop();
-                    answer += 2;
+                    index++;
                     break;
                 }
-	            
-                stack.push(board[j][len]);
-                board[j][len] = 0;
-                break;
             }
         }
-         
+        
         return answer;
     }
 }
-
 ```
