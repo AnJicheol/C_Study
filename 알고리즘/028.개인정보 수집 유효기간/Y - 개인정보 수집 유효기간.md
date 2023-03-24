@@ -98,7 +98,7 @@ class Solution {
     public int[] solution(String today, String[] terms, String[] privacies) {
         int[] box = new int[privacies.length];
         int index = 0;
-        
+         
         int today_num = Integer.parseInt(today.substring(0,4)) * 28 * 12;
         today_num += Integer.parseInt(today.substring(5,7)) * 28;
         today_num += Integer.parseInt(today.substring(8,10));
