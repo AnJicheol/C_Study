@@ -49,11 +49,11 @@ class Solution {
                 if(board[j][moves[i]-1] != 0){
                     box[index] = board[j][moves[i]-1];
                     board[j][moves[i]-1] = 0;
-                    System.out.println(Arrays.toString(box));
+                    //System.out.println(Arrays.toString(box));
                     if(index != 0 && box[index-1] == box[index]){
-                        System.out.println(Arrays.toString(box));
+                        //System.out.println(Arrays.toString(box));
                         index -= 2;
-                        System.out.println(box[index]);
+                        //System.out.println(box[index]);
                         answer += 2;
                     }
                     

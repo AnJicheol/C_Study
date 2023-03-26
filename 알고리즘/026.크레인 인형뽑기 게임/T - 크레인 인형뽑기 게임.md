@@ -56,7 +56,7 @@ class Solution {
                     answer += 2;
                     break;
                 }
-            
+	            
                 stack.push(board[j][len]);
                 board[j][len] = 0;
                 break;

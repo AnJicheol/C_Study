@@ -31,17 +31,18 @@ function solution(s, skip, index) {
     var answer = '';
     var str = 'abcdefghijklmnopqrstuvwxyz'
     var str_index = 0;
-
+	
     for(var i=0; i<skip.length; i++){  // skip 지움
         str = str.replace(skip.charAt(i),"")
     }
+    
     for(var i=0; i<s.length; i++){
         str_index = str.indexOf(s.charAt(i))
         str_index += index
         if(str_index > str.length-1) str_index %= str.length // str_index가 z 보다 크면 str 길이만큼 나눔
         answer += str.charAt(str_index)
     }
-
+	
     return answer;
 }
 ~~~~
