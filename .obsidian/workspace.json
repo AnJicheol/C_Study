@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "file": "0_MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "file": "0_MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "file": "0_MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md"
+                "file": "0_MAIN_README.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "9eec933a98bc8a77",
   "lastOpenFiles": [
+    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "0_MAIN_README.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플",
@@ -182,7 +183,6 @@
     "GamePatrol/README.md",
     "GamePatrol/보고서/보고서 양식.md",
     "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
     "알고리즘/030.바탕화면 정리/Y - 바탕화면 정리.md",
     "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
