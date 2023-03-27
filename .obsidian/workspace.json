@@ -719,7 +719,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/035.튜플/K - 튜플.md",
+                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
                 "mode": "source",
                 "source": false
               }
@@ -808,7 +808,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/035.튜플/K - 튜플.md",
+                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -825,7 +825,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/035.튜플/K - 튜플.md",
+                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -848,7 +848,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/035.튜플/K - 튜플.md"
+                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md"
               }
             }
           }
@@ -871,14 +871,14 @@
   },
   "active": "e680a25f413718af",
   "lastOpenFiles": [
-    "알고리즘/035.튜플/규칙 - 튜플.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
     "알고리즘/035.튜플/K - 튜플.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/033.구명보트/K - 구명보트.md",
     "알고리즘/033.구명보트/T - 구명보트.md",
     "알고리즘/033.구명보트/Y - 구명보트.md",
+    "알고리즘/035.튜플/규칙 - 튜플.md",
+    "conflict-files-obsidian-git.md",
     "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "CS 과목/디자인패턴/README_디자인패턴.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/무제 파일.md",
     "알고리즘/035.튜플",

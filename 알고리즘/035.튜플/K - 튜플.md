@@ -1,4 +1,4 @@
-
+ㄱ
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 
 
@@ -40,6 +40,8 @@
 -   s는 항상 중복되는 원소가 없는 튜플을 올바르게 표현하고 있습니다.
 -   s가 표현하는 튜플의 원소는 1 이상 100,000 이하인 자연수입니다.
 -   return 하는 배열의 길이가 1 이상 500 이하인 경우만 입력으로 주어집니다.
+
+
 ~~~~ Js
 function solution(s) {
     var answer = [];
