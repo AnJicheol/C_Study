@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md"
               }
             }
           }
@@ -173,8 +174,15 @@
   },
   "active": "9eec933a98bc8a77",
   "lastOpenFiles": [
-    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
+    "KakaoTalk_20230327_194501267.jpg",
+    "KakaoTalk_20230327_200915670.jpg",
+    "알고리즘/034.[1차] 캐시/1차 캐시.md",
+    "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴/ch2.옵저버패턴.md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴",
     "0_MAIN_README.md",
+    "CS 과목/디자인패턴/ch1.전략 패턴",
+    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플",
     "알고리즘/034.[1차] 캐시",
@@ -204,18 +212,12 @@
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
-    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/Y - 크레인 인형뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "알고리즘/025.키패드 누르기/T - 키패드 누르기.md",
     "알고리즘/033.구명보트",
     "알고리즘/032.단체사진 찍기",
     "알고리즘/031.빛의 경로 사이클",
     "알고리즘/030.바탕화면 정리",
     "알고리즘/029.신고 결과 받기",
     "알고리즘/028.개인정보 수집 유효기간",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴/과제",
-    "CS 과목/디자인패턴/ch.3. 데코레이터 패턴",
     "Pasted image 20230227193610.png"
   ]
 }
