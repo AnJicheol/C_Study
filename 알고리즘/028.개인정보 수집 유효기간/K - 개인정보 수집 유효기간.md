@@ -98,7 +98,7 @@ function solution(today, terms, privacies) {
             if(terms[j].charAt(0) == privacies[i].charAt(privacies[i].length-1)){ 
                 var test = terms[j].split(' ') // test[1] = 달
                 var result = (privacies[i].substr(5,2)*1) + (test[1]*1) // privacies 달에  terms만큼 더 해준다.
-                result += (privacies[i].substr(0,4) - today.substr(0,4)) *12 // privacies 해와  today 해를 비교해서 그만큼 달에 더해준다.
+                result += (privacies[i].substr(0,4) - today.substr(0,4)) * 12 // privacies 해와  today 해를 비교해서 그만큼 달에 더해준다.
                 break;
             }
         }
