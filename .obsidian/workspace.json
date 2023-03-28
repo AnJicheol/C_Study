@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a0d7c04fbb8fe541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5b059c3f65871de4",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md"
               }
             }
           }
@@ -230,13 +243,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d816b0cbcb46e6c",
+  "active": "a0d7c04fbb8fe541",
   "lastOpenFiles": [
+    "0_MAIN_README.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/035.튜플/K - 튜플.md",
     "알고리즘/README.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
-    "0_MAIN_README.md",
     "무제 파일 1.canvas",
-    "conflict-files-obsidian-git.md",
     "무제 파일.canvas",
     "CS 과목/디자인패턴/README_디자인패턴.md",
     "알고리즘/무제 파일.md",
