@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "24e68c9e2abd0575",
+        "id": "b426d2e95c5cd385",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1f5dab85946d9e",
+            "id": "8a558964d6c036fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da1144136c418152",
+            "id": "00233594695bf550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eec933a98bc8a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39414262168c2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md"
               }
             }
           }
@@ -184,24 +159,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d39414262168c2be",
+  "active": "00233594695bf550",
   "lastOpenFiles": [
+    "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
+    "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
+    "알고리즘/036.택배 배달과 수거하기",
+    "0_MAIN_README.md",
+    "KakaoTalk_20230327_200915670.jpg",
     "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/035.튜플/K - 튜플.md",
     "KakaoTalk_20230327_194501267.jpg",
-    "KakaoTalk_20230327_200915670.jpg",
     "알고리즘/034.[1차] 캐시/1차 캐시.md",
     "CS 과목/디자인패턴/ch2.옵저버패턴/ch2.옵저버패턴.md",
     "CS 과목/디자인패턴/ch2.옵저버패턴",
-    "0_MAIN_README.md",
     "CS 과목/디자인패턴/ch1.전략 패턴",
     "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플",
     "알고리즘/034.[1차] 캐시",
     "알고리즘/무제 파일.md",
-    "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "GamePatrol/README.md",
     "GamePatrol/보고서/보고서 양식.md",
     "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
@@ -224,13 +201,11 @@
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
     "알고리즘/033.구명보트",
     "알고리즘/032.단체사진 찍기",
     "알고리즘/031.빛의 경로 사이클",
     "알고리즘/030.바탕화면 정리",
     "알고리즘/029.신고 결과 받기",
-    "알고리즘/028.개인정보 수집 유효기간",
     "Pasted image 20230227193610.png"
   ]
 }
