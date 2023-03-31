@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
+                "file": "0_MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
+                "file": "0_MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
+                "file": "0_MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md"
+                "file": "0_MAIN_README.md"
               }
             }
           }
@@ -257,10 +257,10 @@
   },
   "active": "d9697fd0062c4b6d",
   "lastOpenFiles": [
+    "알고리즘/034.[1차] 캐시/1차 캐시.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플/K - 튜플.md",
     "conflict-files-obsidian-git.md",
-    "알고리즘/034.[1차] 캐시/1차 캐시.md",
     "알고리즘/034.[1차] 캐시",
     "KakaoTalk_20230327_200915670.jpg",
     "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
