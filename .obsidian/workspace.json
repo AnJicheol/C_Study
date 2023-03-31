@@ -726,6 +726,18 @@
             }
           },
           {
+            "id": "af98bbee3d141f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -742,7 +754,7 @@
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 63
       }
     ],
     "direction": "vertical"
@@ -808,7 +820,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
+                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -825,7 +837,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
+                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -848,7 +860,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md"
+                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md"
               }
             }
           }
@@ -869,16 +881,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e680a25f413718af",
+  "active": "af98bbee3d141f35",
   "lastOpenFiles": [
     "CS 과목/디자인패턴/README_디자인패턴.md",
+    "GamePatrol/보고서/T/2023 - 03 - 07.md",
+    "GamePatrol/보고서/K/2023 - 02 - 27 보고서.md",
+    "GamePatrol/보고서/T/2023 - 02 - 26 보고서.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/034.[1차] 캐시/1차 캐시.md",
+    "알고리즘/034.[1차] 캐시",
+    "KakaoTalk_20230327_200915670.jpg",
+    "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
+    "CS 과목/디자인패턴/ch1.전략 패턴",
+    "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "알고리즘/035.튜플/K - 튜플.md",
     "알고리즘/033.구명보트/K - 구명보트.md",
     "알고리즘/033.구명보트/T - 구명보트.md",
     "알고리즘/033.구명보트/Y - 구명보트.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
-    "conflict-files-obsidian-git.md",
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/무제 파일.md",
     "알고리즘/035.튜플",
@@ -893,11 +913,6 @@
     "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
     "알고리즘/028.개인정보 수집 유효기간/Y - 개인정보 수집 유효기간.md",
     "알고리즘/027.둘만의 암호/Y - 둘만의 암호.md",
-    "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/T - 크레인 인형뽑기 게임.md",
-    "알고리즘/026.크레인 인형뽑기 게임/Y - 크레인 인형뽑기 게임.md",
-    "알고리즘/018.푸드 파이트 대회/K - 푸드 파이터 대회.md",
     "알고리즘/033.구명보트",
     "알고리즘/032.단체사진 찍기",
     "알고리즘/031.빛의 경로 사이클",
@@ -908,8 +923,6 @@
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "CS 과목/알고리즘/ch2. 정렬/과제",
-    "CS 과목/알고리즘/ch3.  함수의 증가",
-    "CS 과목/알고리즘/ch2. 정렬",
     "Pasted image 20230227193610.png"
   ]
 }
