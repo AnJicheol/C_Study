@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "5c125bf85a4bc9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5b059c3f65871de4",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/035.튜플/규칙 - 튜플.md"
               }
             }
           }
@@ -255,17 +267,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d9697fd0062c4b6d",
+  "active": "5c125bf85a4bc9a4",
   "lastOpenFiles": [
+    "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
+    "conflict-files-obsidian-git.md",
+    "0_MAIN_README.md",
+    "알고리즘/036.택배 배달과 수거하기",
     "알고리즘/034.[1차] 캐시/1차 캐시.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플/K - 튜플.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/034.[1차] 캐시",
     "KakaoTalk_20230327_200915670.jpg",
     "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
     "CS 과목/디자인패턴/ch1.전략 패턴",
-    "0_MAIN_README.md",
     "알고리즘/README.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
@@ -288,14 +302,12 @@
     "알고리즘/030.바탕화면 정리/Y - 바탕화면 정리.md",
     "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
     "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
-    "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
     "알고리즘/033.구명보트",
     "알고리즘/032.단체사진 찍기",
     "알고리즘/031.빛의 경로 사이클",
     "알고리즘/030.바탕화면 정리",
     "알고리즘/029.신고 결과 받기",
     "알고리즘/028.개인정보 수집 유효기간",
-    "무제 파일 2.canvas",
-    "CS 과목/알고리즘/ch3.  함수의 증가"
+    "무제 파일 2.canvas"
   ]
 }
