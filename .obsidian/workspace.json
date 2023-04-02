@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d816b0cbcb46e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_MAIN_README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0d7c04fbb8fe541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9697fd0062c4b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_MAIN_README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c125bf85a4bc9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b059c3f65871de4",
             "type": "leaf",
             "state": {
@@ -139,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
+                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md"
+                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md"
               }
             }
           }
@@ -267,14 +218,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c125bf85a4bc9a4",
+  "active": "5b059c3f65871de4",
   "lastOpenFiles": [
     "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
+    "알고리즘/035.튜플/규칙 - 튜플.md",
     "conflict-files-obsidian-git.md",
     "0_MAIN_README.md",
     "알고리즘/036.택배 배달과 수거하기",
     "알고리즘/034.[1차] 캐시/1차 캐시.md",
-    "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플/K - 튜플.md",
     "알고리즘/034.[1차] 캐시",
     "KakaoTalk_20230327_200915670.jpg",
