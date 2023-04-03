@@ -126,3 +126,33 @@
     -   자기 자신을 신고하는 경우는 없습니다.
 -   1 ≤ `k` ≤ 200, `k`는 자연수입니다.
 -   return 하는 배열은 `id_list`에 담긴 id 순서대로 각 유저가 받은 결과 메일 수를 담으면 됩니다.
+
+~~~~ Js
+function solution(id_list, report, k) {
+	var answer=[]
+	var set = new Set(report);
+	var uniqueArr = [...set];
+	// 중복 제거 victim
+	let Perpetrator = new Map();  
+    let victim = new Map();
+    
+    // 맵 추가
+    for(var i=0; i<id_list.length; i++){
+        answer[i] = 0
+        Perpetrator.set(id_list[i], 0); 
+        victim.set(id_list[i], i); 
+    }
+    // 신고 받은 횟수 
+	for (var i=0; i<uniqueArr.length; i++) {
+        var test = uniqueArr[i].split(" ")    
+        Perpetrator.set(test[1], Perpetrator.get(test[1])+1); 
+	}
+    // 신고 알람 보내기
+    for(var i=0; i<uniqueArr.length; i++){
+        var test = uniqueArr[i].split(" ")
+        if(Perpetrator.get(test[1])>=k)answer[victim.get(test[0])]++
+    }
+    
+	return answer;
+}
+~~~~~
