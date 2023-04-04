@@ -1,4 +1,4 @@
-ㄱ
+
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 
 
@@ -42,21 +42,51 @@
 -   return 하는 배열의 길이가 1 이상 500 이하인 경우만 입력으로 주어집니다.
 
 
-~~~~ Js
-function solution(s) {
-    var answer = [];
-    const map = new Map();
-    s = s.replaceAll('{','');
-    s = s.replaceAll('}','');
-    s = s.split(',');
-    
-    for(var i=0; i<s.length; i++){
-        if(map.has(s[i])) map.set(s[i], map.get(s[i])+1); 
-        if(!map.has(s[i])) map.set(s[i], 1); 
+```java
+import java.util.*;
+
+
+class Solution {
+    public int[] solution(String s) {
+        int count = 0;
+        
+        StringBuilder str = new StringBuilder();
+        HashMap<Integer,String> map = new HashMap<Integer,String>();
+        
+        for(int i = 2; i < s.length(); i++){
+            char ch = s.charAt(i);
+            if(ch >= '0' && ch <= '9'){ str.append(ch); }
+            else if(ch == ','){
+                count++;
+                str.append(ch);
+            }
+            else{
+                i += 2;
+                map.put(count,str.toString());  
+                str.setLength(0);
+                count = 0;
+            }
+        }
+        // System.out.println(map);
+        
+        List<String> list = new ArrayList<String>();
+        str.append(map.get(0));
+        list.add(map.get(0));
+        
+        for(int i = 1; i < map.size(); i++){
+            String[] st = map.get(i).split(",");
+            for(int j = 0; j < st.length; j++){
+                if(!list.contains(st[j])){list.add(st[j]);}
+            }
+        }
+        
+        // System.out.println(list);
+        int[] answer = new int[list.size()];
+        for(int i = 0; i < answer.length; i++){
+            answer[i] = Integer.parseInt(list.get(i));
+        }
+        
+        return answer;
     }
-    for (var value of map) {
-        answer[map.size-value[1]] = value[0]*1
-    }
-    return answer;
 }
-~~~~
+```

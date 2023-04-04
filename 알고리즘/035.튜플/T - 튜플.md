@@ -1,5 +1,3 @@
-ㄱ
-## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 
 
 ###### 문제 설명
@@ -42,21 +40,50 @@
 -   return 하는 배열의 길이가 1 이상 500 이하인 경우만 입력으로 주어집니다.
 
 
-~~~~ Js
-function solution(s) {
-    var answer = [];
-    const map = new Map();
-    s = s.replaceAll('{','');
-    s = s.replaceAll('}','');
-    s = s.split(',');
+
+
+
+
+```java
+
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.Arrays;
+
+class Solution {
     
-    for(var i=0; i<s.length; i++){
-        if(map.has(s[i])) map.set(s[i], map.get(s[i])+1); 
-        if(!map.has(s[i])) map.set(s[i], 1); 
+    public ArrayList<Integer> solution(String s) {
+        
+
+        ArrayList<Integer> answer = new ArrayList<>();
+        
+        s = s.substring(2,s.length());
+        s = s.substring(0,s.length()-2).replace("},{"," ");
+
+        String str[] = s.split(" ");        
+
+        Arrays.sort(str,new Comparator<String>(){
+            public int compare(String o1, String o2){
+                
+                return Integer.compare(o1.length(), o2.length());
+            }
+        });
+        
+        for(String x : str){
+            String[] temp = x.split(",");
+            
+            for(int i = 0 ; i < temp.length;i++){
+                
+                int n = Integer.parseInt(temp[i]);
+                if(!answer.contains(n))
+                    answer.add(n);
+            }
+        }
+        
+        return answer;
     }
-    for (var value of map) {
-        answer[map.size-value[1]] = value[0]*1
-    }
-    return answer;
 }
-~~~~
+
+
+```
