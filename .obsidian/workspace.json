@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83b7444feef85037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md"
+                "file": "알고리즘/038.프린터/규칙 - 프린터.md"
               }
             }
           }
@@ -195,10 +207,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "56c3927aa84006fc",
+  "active": "83b7444feef85037",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+    "알고리즘/038.프린터/규칙 - 프린터.md",
+    "알고리즘/038.프린터",
+    "알고리즘/037.뉴스 클러스터링/무제 폴더",
+    "conflict-files-obsidian-git.md",
     "알고리즘/035.튜플/Y - 튜플.md",
     "알고리즘/034.[1차] 캐시/Y - 1차 캐시.md",
     "알고리즘/029.신고 결과 받기/Y - 신고 결과 받기.md",
@@ -233,15 +248,12 @@
     "GamePatrol/보고서/보고서 양식.md",
     "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
     "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
-    "알고리즘/030.바탕화면 정리/Y - 바탕화면 정리.md",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "알고리즘/033.구명보트",
-    "알고리즘/032.단체사진 찍기",
     "Pasted image 20230227193610.png"
   ]
 }
