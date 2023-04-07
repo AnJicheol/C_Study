@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46abb08cac10724e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf59765121657c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/038.프린터/T - 프린터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
+                "file": "알고리즘/038.프린터/T - 프린터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
+                "file": "알고리즘/038.프린터/T - 프린터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/038.프린터/규칙 - 프린터.md"
+                "file": "알고리즘/038.프린터/T - 프린터.md"
               }
             }
           }
@@ -207,10 +231,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83b7444feef85037",
+  "active": "dbf59765121657c7",
   "lastOpenFiles": [
-    "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
     "알고리즘/038.프린터/규칙 - 프린터.md",
+    "알고리즘/038.프린터/T - 프린터.md",
+    "알고리즘/037.뉴스 클러스터링/T - 뉴스 클러스터링.md",
+    "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
     "알고리즘/038.프린터",
     "알고리즘/037.뉴스 클러스터링/무제 폴더",
     "conflict-files-obsidian-git.md",
@@ -246,8 +272,6 @@
     "알고리즘/034.[1차] 캐시",
     "GamePatrol/README.md",
     "GamePatrol/보고서/보고서 양식.md",
-    "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-    "알고리즘/030.바탕화면 정리/T - 바탕화면 정리.md",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
     "무제 파일 4.canvas",
