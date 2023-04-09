@@ -44,20 +44,21 @@ function solution(str1, str2) {
     var index = 0;
     var str1_arr = []
     var str2_arr = []
-    var pattern = /^[a-z|A-Z]+$/; //영어
+    var pattern2 = /^[a-z|A-Z]+$/; //영어
     
+    str1 = str1.toLowerCase()
     for(var i=0; i<str1.length-1; i++){
-        if(pattern.test(str1[i] + str1[i+1])){
+        if(pattern2.test(str1[i] + str1[i+1])){
             str1_arr[index] = str1[i] + str1[i+1]
-            str1_arr[index] = str1_arr[index].toLowerCase()
+
             index++
         }
     }
     index = 0
+    str2 = str2.toLowerCase()
     for(var i=0; i<str2.length-1; i++){
-        if(pattern.test(str2[i] + str2[i+1])){
+        if(pattern2.test(str2[i] + str2[i+1])){
             str2_arr[index] = str2[i] + str2[i+1]
-            str2_arr[index] = str2_arr[index].toLowerCase()
             index++
         }
     }
