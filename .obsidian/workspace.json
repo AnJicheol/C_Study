@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a558964d6c036fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c7442ca70b4d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/035.튜플/T - 튜플.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbd9bf14f275bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/T - 1차 캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c78d95534913012",
+            "id": "dbf59765121657c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,55 +20,31 @@
             }
           },
           {
-            "id": "56c3927aa84006fc",
+            "id": "89d6da61df18091c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+                "file": "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83b7444feef85037",
+            "id": "176814dd0c77fa02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46abb08cac10724e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/038.프린터/규칙 - 프린터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf59765121657c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/038.프린터/T - 프린터.md",
+                "file": "CS 과목/디자인패턴/ch2.옵저버패턴/옵저버 패턴(Observer).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -170,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/038.프린터/T - 프린터.md",
+                "file": "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/038.프린터/T - 프린터.md",
+                "file": "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/038.프린터/T - 프린터.md"
+                "file": "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md"
               }
             }
           }
@@ -231,47 +172,47 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbf59765121657c7",
+  "active": "89d6da61df18091c",
   "lastOpenFiles": [
-    "알고리즘/038.프린터/규칙 - 프린터.md",
-    "알고리즘/038.프린터/T - 프린터.md",
-    "알고리즘/037.뉴스 클러스터링/T - 뉴스 클러스터링.md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴/옵저버 패턴(Observer).md",
+    "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md",
+    "CS 과목/디자인패턴/무제 파일.md",
+    "CS 과목/디자인패턴/무제 폴더",
+    "CS 과목/디자인패턴/ch.3데코레이터 패턴",
+    "알고리즘/036.n 배열 자르기/규칙 - n 배열 자르기.md",
+    "CS 과목/무제 폴더",
+    "알고리즘/무제 파일.md",
+    "알고리즘/035.튜플/T - 튜플.md",
+    "알고리즘/034.[1차] 캐시/T - 1차 캐시.md",
     "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+    "알고리즘/038.프린터/규칙 - 프린터.md",
+    "CS 과목/디자인패턴/README_디자인패턴.md",
+    "알고리즘/037.뉴스 클러스터링/T - 뉴스 클러스터링.md",
+    "알고리즘/038.프린터/T - 프린터.md",
+    "알고리즘_주간/001.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
+    "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
+    "알고리즘/036.n 배열 자르기/T - 배열 자르기.md",
     "알고리즘/038.프린터",
     "알고리즘/037.뉴스 클러스터링/무제 폴더",
     "conflict-files-obsidian-git.md",
     "알고리즘/035.튜플/Y - 튜플.md",
     "알고리즘/034.[1차] 캐시/Y - 1차 캐시.md",
     "알고리즘/029.신고 결과 받기/Y - 신고 결과 받기.md",
-    "알고리즘/036.n 배열 자르기/규칙 - n 배열 자르기.md",
     "알고리즘/037.뉴스 클러스터링",
-    "알고리즘/034.[1차] 캐시/T - 1차 캐시.md",
     "알고리즘/036.n 배열 자르기",
     "알고리즘/034.[1차] 캐시/K - 1차캐시.md",
     "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
     "알고리즘/034.[1차] 캐시/1차 캐시.md",
-    "알고리즘/035.튜플/T - 튜플.md",
     "알고리즘/035.튜플/규칙 - 튜플.md",
     "알고리즘/035.튜플/K - 튜플.md",
-    "알고리즘/무제 파일.md",
     "무제 파일.md",
     "알고리즘_주간",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-    "0_MAIN_README.md",
     "무제 파일.canvas",
-    "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
-    "알고리즘_주간/001.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
     "KakaoTalk_20230327_200915670.jpg",
     "알고리즘_주간/001.택배 배달과 수거하기",
     "KakaoTalk_20230327_194501267.jpg",
-    "CS 과목/디자인패턴/ch2.옵저버패턴/ch2.옵저버패턴.md",
     "CS 과목/디자인패턴/ch2.옵저버패턴",
-    "CS 과목/디자인패턴/ch1.전략 패턴",
-    "알고리즘/031.빛의 경로 사이클/규칙 - 빛의 경로 사이클.md",
-    "알고리즘/035.튜플",
-    "알고리즘/034.[1차] 캐시",
-    "GamePatrol/README.md",
-    "GamePatrol/보고서/보고서 양식.md",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
     "무제 파일 4.canvas",
