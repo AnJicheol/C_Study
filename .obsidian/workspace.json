@@ -858,6 +858,18 @@
             }
           },
           {
+            "id": "67451fb6033c865e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -874,7 +886,7 @@
             }
           }
         ],
-        "currentTab": 73
+        "currentTab": 74
       }
     ],
     "direction": "vertical"
@@ -940,7 +952,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/038.프린터/K - 프린터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -957,7 +969,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/038.프린터/K - 프린터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -980,7 +992,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/038.프린터/K - 프린터.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -1001,15 +1013,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f2eca18712db9bb6",
+  "active": "67451fb6033c865e",
   "lastOpenFiles": [
-    "알고리즘/038.프린터/규칙 - 프린터.md",
     "알고리즘/038.프린터/K - 프린터.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/036.n 배열 자르기/T - 배열 자르기.md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴/옵저버 패턴(Observer).md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴",
+    "CS 과목/디자인패턴/ch.3데코레이터 패턴/데코레이터 패턴(Decorator).md",
+    "CS 과목/디자인패턴/ch.3데코레이터 패턴",
+    "알고리즘/038.프린터/규칙 - 프린터.md",
     "알고리즘/038.프린터/T - 프린터.md",
     "알고리즘/037.뉴스 클러스터링/T - 뉴스 클러스터링.md",
     "알고리즘/037.뉴스 클러스터링/K - 뉴스 클러스터링.md",
     "알고리즘/037.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
-    "conflict-files-obsidian-git.md",
     "CS 과목/디자인패턴/ch1.전략 패턴/ch1.전략 패턴.md",
     "알고리즘/038.프린터",
     "알고리즘/036.n 배열 자르기/K - n 배열 자르기.md",
@@ -1029,17 +1046,12 @@
     "알고리즘/034.[1차] 캐시/T - 1차 캐시.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/034.[1차] 캐시/1차 캐시.md",
-    "알고리즘/032.단체사진 찍기/규칙 - 단체사진 찍기.md",
-    "알고리즘_주간/001.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
     "알고리즘_주간/001.택배 배달과 수거하기",
     "알고리즘_주간",
-    "알고리즘/036.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
     "알고리즘/036.택배 배달과 수거하기",
     "알고리즘/034.[1차] 캐시",
     "KakaoTalk_20230327_200915670.jpg",
     "CS 과목/디자인패턴/ch1.전략 패턴",
-    "알고리즘/035.튜플",
-    "알고리즘/033.구명보트",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
