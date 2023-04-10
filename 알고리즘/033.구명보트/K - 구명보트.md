@@ -26,7 +26,7 @@ function solution(people, limit) {
     var count = 0;
     
     people.sort((a,b) => b-a)
-
+	
     for(var i=0; i<p_l; i++){
         var test = people[i]
         for(var j=p_l-count-1; j>i; j--){
@@ -35,6 +35,7 @@ function solution(people, limit) {
                 people[j] = 0
                 count++
             } 
+            
             if(test + people[j+1] > limit) break
         } 
         if(test == 0) answer--

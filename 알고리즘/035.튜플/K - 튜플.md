@@ -51,6 +51,7 @@ function solution(s) {
     s = s.split(',');
     
     for(var i=0; i<s.length; i++){
+	    
         if(map.has(s[i])) map.set(s[i], map.get(s[i])+1); 
         if(!map.has(s[i])) map.set(s[i], 1); 
     }
