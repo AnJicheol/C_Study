@@ -149,6 +149,8 @@ class Solution {
             target[index] = str2[1];
             index++;
         }
+        // System.out.println(Arrays.toString(reporter));
+        // System.out.println(Arrays.toString(target));
         
         for(int i = 0; i < target.length; i++){
             map.put(target[i],map.get(target[i])+1);
@@ -167,8 +169,6 @@ class Solution {
                 }
             }
         }
-    
-        
         return answer;
     }
 }
