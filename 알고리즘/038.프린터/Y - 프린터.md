@@ -26,5 +26,35 @@
 -   location은 0 이상 (현재 대기목록에 있는 작업 수 - 1) 이하의 값을 가지며 대기목록의 가장 앞에 있으면 0, 두 번째에 있으면 1로 표현합니다.
 
 ```java
+import java.util.*;
 
+class Solution {
+    public int solution(int[] priorities, int location) {
+        int answer = 0;
+        int[] arr = priorities.clone();
+        
+        
+        Arrays.sort(priorities);
+        // System.out.println(Arrays.toString(priorities));
+        // System.out.println(Arrays.toString(arr));
+        
+        int index = 0;
+        
+        for(int i = arr.length-1; i >= 0; i--){
+            for(int j = index; arr[location] != 0; j++){
+                j = j % arr.length;
+                if(priorities[i] == arr[j]){
+                    arr[j] = 0;
+                    index = j;
+                    answer++;
+                    break;
+                }
+            }
+        }
+        
+
+        
+        return answer;
+    }
+}
 ```

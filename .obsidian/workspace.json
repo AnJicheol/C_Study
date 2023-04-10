@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "eecbd21dc17036a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f81c5f3799c90f5e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ef662c5f89bd37cf",
+  "active": "eecbd21dc17036a3",
   "lastOpenFiles": [
+    "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
     "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
     "알고리즘/029.신고 결과 받기/Y - 신고 결과 받기.md",
-    "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
     "알고리즘/024.기사단원의 무기/이거 용훈이 못하는거임.md",
     "알고리즘/038.프린터/Y - 프린터.md",
     "알고리즘/038.프린터/T - 프린터.md",
@@ -197,7 +210,6 @@
     "알고리즘/033.구명보트/T - 구명보트.md",
     "알고리즘/033.구명보트/K - 구명보트.md",
     "알고리즘/033.구명보트/규칙 - 구명보트.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/036.n 배열 자르기/규칙 - n 배열 자르기.md",
     "CS 과목/디자인패턴/무제 폴더",
     "CS 과목/디자인패턴/ch.3데코레이터 패턴",
