@@ -48,7 +48,7 @@ import java.util.*;
 
 class Solution {
     List<String> str = new ArrayList<String>();
-    
+
     public int solution(String str1, String str2) {
         
         str1 = str1.toLowerCase();
@@ -56,7 +56,7 @@ class Solution {
         
         init(str1);
         init(str2);
-        
+      
         int[] ch1 = new int[str.size()];
         int[] ch2 = new int[str.size()];
         
@@ -105,6 +105,5 @@ class Solution {
         }
     }
 }
-
 
 ```
