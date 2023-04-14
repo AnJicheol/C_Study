@@ -1,15 +1,6 @@
 ## [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 
 
-
--   구명보트
-
-darklight
-
-sublimevimemacs
-
-Java 
-
 ###### 문제 설명
 
 무인도에 갇힌 사람들을 구명보트를 이용하여 구출하려고 합니다. 구명보트는 작아서 한 번에 최대 **2명**씩 밖에 탈 수 없고, 무게 제한도 있습니다.
@@ -35,7 +26,7 @@ function solution(people, limit) {
     var count = 0;
     
     people.sort((a,b) => b-a)
-
+	
     for(var i=0; i<p_l; i++){
         var test = people[i]
         for(var j=p_l-count-1; j>i; j--){
@@ -44,6 +35,7 @@ function solution(people, limit) {
                 people[j] = 0
                 count++
             } 
+            
             if(test + people[j+1] > limit) break
         } 
         if(test == 0) answer--

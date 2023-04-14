@@ -45,7 +45,6 @@
 ```java
 import java.util.*;
 
-
 class Solution {
     public int[] solution(String s) {
         int count = 0;

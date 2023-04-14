@@ -50,7 +50,6 @@ class Solution {
         List<String> str1_list = new ArrayList<>();
         List<String> str2_list = new ArrayList<>();
         
-        
         for(int i = 0; i < str1.length()-1; i++){
             String st = str1.substring(i,i+2);
             if(st.matches("^[a-zA-Z]*$")){
