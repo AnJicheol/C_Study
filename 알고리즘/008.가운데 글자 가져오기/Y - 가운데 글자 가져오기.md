@@ -30,3 +30,27 @@ class Solution {
 }
 
 ```
+
+
+# 피드백 
+-----------------------------------------------------------
+
+안지철 - > 불필요한 조건문이 있다
+
+```java
+ if(s.length() % 2 != 0){
+    answer = String.valueOf(str.charAt(s.length()/2));
+ }
+ 
+else{
+    answer = str.substring(s.length()/ 2-1,s.length()/ 2+1);
+}
+
+해당 코드를 다음과 같이 줄일 수 있다
+
+-----------------------------------------------------------------------------------
+
+return s.substring((s.length()-1)/2, s.length() / 2 + 1);
+
+
+```
