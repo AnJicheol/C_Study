@@ -53,3 +53,26 @@ class Solution {
     }
 }
 ```
+
+
+
+# 피드백
+
+------------------------------------------------------------------------------
+
+안지철 - > 자릿 수 맞추는 알고리즘이 너무 비효율적이다  
+
+```java
+
+각 배열에 2 ^ n 을 더해주면 자릿 수 구하는 코드를 제거할 수 있다
+
+ arr1[i] += Math.pow(2, n);
+ arr2[i] += Math.pow(2, n);
+	            
+ answer[i] = Integer.toBinaryString(arr1[i] | arr2[i]);
+ answer[i] = answer[i].replace('1', '#');
+ answer[i] = answer[i].replace('0', ' ');
+ answer[i] = answer[i].substring(1);
+
+```
+

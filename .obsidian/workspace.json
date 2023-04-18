@@ -830,6 +830,18 @@
             }
           },
           {
+            "id": "cccf387cb0b9b735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -846,7 +858,7 @@
             }
           }
         ],
-        "currentTab": 71
+        "currentTab": 72
       }
     ],
     "direction": "vertical"
@@ -912,6 +924,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -928,6 +941,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -949,7 +963,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md"
+              }
             }
           }
         ]
@@ -969,11 +985,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b509d659ee9217b",
+  "active": "cccf387cb0b9b735",
   "lastOpenFiles": [
+    "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
+    "CS 과목/디자인패턴/ch2.옵저버패턴/T-옵저버 패턴(Observer).md",
     "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
-    "알고리즘/039.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "conflict-files-obsidian-git.md",
+    "알고리즘/039.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "알고리즘_주간/001.택배 배달과 수거하기/규칙 - 택배 배달과 수거하기.md",
     "알고리즘/040.타겟 넘버",
     "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
@@ -982,9 +1000,7 @@
     "알고리즘/034.[1차] 캐시/001.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "알고리즘/034.[1차] 캐시/001.택배 배달과 수거하기",
     "알고리즘/029.신고 결과 받기/용훈이 레전드 코드.md",
-    "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
     "CS 과목/디자인패턴/ch3.데코레이터 패턴",
-    "CS 과목/디자인패턴/ch2.옵저버패턴/T-옵저버 패턴(Observer).md",
     "CS 과목/디자인패턴/ch1.전략 패턴/T.전략 패턴.md",
     "알고리즘_주간/001.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "알고리즘/038.프린터/K - 프린터.md",
