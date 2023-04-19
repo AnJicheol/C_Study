@@ -31,12 +31,14 @@ function solution(N, stages) {
     var answer = [];
     var arr = []
     var num = stages.length
+    
     // 실패한 인원 찾기
     for(var i=1; i<=N; i++){
         var count = 0
         for(var j=0; j<stages.length; j++){
             if(i == stages[j]) count++
         }
+        
         // count가 0이면 null이 저장됨
         if(count == 0) arr[i-1] = 0
         if(count != 0) arr[i-1] = count/num
