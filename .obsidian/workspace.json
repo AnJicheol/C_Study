@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b426d2e95c5cd385",
+        "id": "efb8ccf63c8e87e8",
         "type": "tabs",
         "children": [
           {
-            "id": "6332b35101f38792",
+            "id": "0f4ea70a489bd07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/012.시저 암호/Y - 시저 암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e64563a3a103cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "185c15c3de66da4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
+                "file": "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/012.시저 암호/Y - 시저 암호.md",
+                "file": "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/012.시저 암호/Y - 시저 암호.md",
+                "file": "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/012.시저 암호/Y - 시저 암호.md"
+                "file": "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md"
               }
             }
           }
@@ -170,8 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6332b35101f38792",
+  "active": "0f4ea70a489bd07e",
   "lastOpenFiles": [
+    "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
+    "CS 과목/알고리즘/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
+    "CS 과목/알고리즘/ch3.  함수의 증가/무제 파일.md",
+    "알고리즘/012.시저 암호/Y - 시저 암호.md",
     "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
     "알고리즘/011.숫자 문자열과 영단어/T - 숫자 문자열과 영단어.md",
     "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
@@ -194,10 +174,6 @@
     "알고리즘/005.하샤드 수/K - 하샤드 수.md",
     "알고리즘/005.하샤드 수/T - 하샤드 수.md",
     "알고리즘/005.하샤드 수/Y - 하샤드 수.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/Y-나머지가 1이 되는 수 찾기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/T - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/Y - 정수 내림차순으로 배치하기.md",
     "알고리즘/041.압축",
     "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
     "알고리즘/040.타겟 넘버",
