@@ -56,7 +56,7 @@ public class Sandwich_ham{
  
 
 ```java
-public class ingredients {  
+public class Bread {  
     boolean cheese;  
     boolean ham;  
     boolean Fried;  
@@ -75,7 +75,7 @@ public class ingredients {
 ```
 
 ```java
-public class Sandwich extends ingredients{  
+public class Sandwich extends Bread{  
     public int Cost(){  
 	    System.out.println(2000 + super.Cost());
         return 2000 + super.Cost();  
@@ -110,8 +110,118 @@ public class Main {
 # 해결 - 데코레이터 패턴
 
 ```java
+abstract class Bread {  
+    String br = " ";  
+  
+    public String getDescription(){  
+        return br;  
+    }  
+    public abstract int Cost();  
+}
+```
 
+```java
+abstract class Decorator extends Bread {  
+    Bread bread;  
+    public abstract String getDescription();  
+}
+```
 
+```java
+class cheese extends Decorator {  
+  
+    public cheese(Bread bread){  
+        this.bread = bread;  
+    }  
+  
+    public String getDescription(){  
+        return bread.getDescription() + "cheese";  
+    }  
+    @Override  
+    public int Cost() {  
+        return bread.Cost() + 500;  
+    }  
+}
+```
 
+```java
+class ham extends Decorator {  
+  
+    public ham(Bread bread){  
+        this.bread = bread;  
+    }  
+  
+    public String getDescription(){  
+        return bread.getDescription() + "ham";  
+    }  
+  
+    @Override  
+    public int Cost() {  
+        return bread.Cost() + 1000;  
+    }  
+}
+```
 
+```java
+class Fried extends Decorator {  
+  
+    public Fried(Bread bread){  
+        this.bread = bread;  
+    }  
+  
+    public String getDescription(){  
+        return bread.getDescription() + "Fried";  
+    }  
+  
+    @Override  
+    public int Cost() {  
+        return bread.Cost() + 500;  
+    }  
+}
+```
+
+```java
+class cabbage extends Decorator {  
+  
+    public cabbage(Bread bread){  
+        this.bread = bread;  
+    }  
+  
+    public String getDescription(){  
+        return bread.getDescription() + "cabbage";  
+    }  
+    @Override  
+    public int Cost() {  
+        return bread.Cost() + 1000;  
+    }  
+}
+```
+
+```java
+class Sandwich extends Bread{  
+  
+    public  Sandwich(){  
+        br = "샌드위치";  
+    }  
+    public int Cost(){  
+  
+        return 2000 ;  
+    }  
+}
+```
+
+```java
+public class Main {  
+    public static void main(String[] args) {  
+        Bread sn = new Sandwich();  
+  
+        System.out.println(sn.getDescription() + "   " + sn.Cost());  
+  
+        sn = new cheese(sn);  
+        sn = new cabbage(sn);  
+  
+        System.out.println(sn.getDescription() + "   " + sn.Cost());  
+  
+    }  
+}
 ```
