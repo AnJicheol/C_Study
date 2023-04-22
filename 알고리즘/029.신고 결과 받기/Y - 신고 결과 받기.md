@@ -173,3 +173,24 @@ class Solution {
     }
 }
 ```
+
+
+
+# 피드백 
+
+-------------------------------------------------------------------
+안지철 - > Map 을 활용하면 가독성이 더욱 좋아 졌을 거 같다 - > 내 코드 참고
+
+```java
+ Map<String, HashSet<String>> map1 = new HashMap<>(id_list.length);
+ Map<String, Integer> map2 = new HashMap<>(id_list.length);
+
+
+for(String key :map1.keySet()){
+     if(map1.get(key).size() >= k){
+        for(String key2 : map1.get(key)){
+             answer[map2.get(key2)]++;
+        }  
+    }
+}
+```
