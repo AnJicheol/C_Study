@@ -169,6 +169,11 @@ class Solution {
                 }
             }
         }
+<<<<<<< HEAD
+=======
+	    
+        
+>>>>>>> origin/master
         return answer;
     }
 }

@@ -129,6 +129,7 @@
 
 ~~~~ Js
 function solution(id_list, report, k) {
+
 	var answer=[]
 	var set = new Set(report);
 	var uniqueArr = [...set];
@@ -142,6 +143,7 @@ function solution(id_list, report, k) {
         Perpetrator.set(id_list[i], 0); 
         victim.set(id_list[i], i); 
     }
+    
     // 신고 받은 횟수 
 	for (var i=0; i<uniqueArr.length; i++) {
         var test = uniqueArr[i].split(" ")    
