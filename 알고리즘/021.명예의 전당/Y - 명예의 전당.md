@@ -18,8 +18,7 @@
 
 
 
-```java
-
+```
 import java.util.*;
 
 class Solution {
@@ -58,3 +57,27 @@ class Solution {
 }
 
 ```
+
+
+
+
+# 평가
+
+--------------------------------------------------------------
+
+안지철 - > 처음에 코드를 가볍게 살펴봤을 때는 LinkedList로 코드가 매우 비효율 적일 것이라고 생각했다
+이유는 밑에 코드가 매우 비효율적일 것이라고 생각했기 때문이다 LinkedList에 get은 Log(n)에 시간 복잡도를
+갖는다 따라서 배열이나 ArrayList보다 느릴 것이다 라고 생각하기 쉽지만 사실 해당 로직은 결과적으로 contains이기때문에 배열 또한 Log(n)을 갖는다 따라서 add() 와 remove() 에 시간복잡도가 Log(1)인 LinkedList 특징을 생각한다면 충분히 좋은 코드라고 생각한다
+
+```java
+
+for(int j = 0; j < box.size(); j++){ // 정렬
+    if(score[i] < box.get(j)){
+        box.add(j,score[i]);
+        count = false;
+        break;
+    }
+}
+
+```
+

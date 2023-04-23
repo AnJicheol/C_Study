@@ -12,15 +12,8 @@
 
 ## [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ```JAVA
-=======
-``` java
->>>>>>> origin/master
-=======
-```java
->>>>>>> origin/master
 
 class Solution {
     public String solution(String s, int n) {
@@ -53,4 +46,83 @@ class Solution {
         return String.valueOf(str);
     }
 }
+```
+
+
+
+
+# 피드백
+------------------------------------------------------------------------
+
+안지철 - > 분기문이 너무 많고 중복된 코드가 많아 가독성이 상당히 떨어진다
+
+```java
+
+분기문 if(num + n > 90) 와 if(num + n > 122)는 불필요하다 
+
+당장 아스키코드를 알수 없다 해도 'a' 와 "A"를 빼주면 시작 지점을 알 수 있고 알파벳 개수는 항상 일정하기 때문에 % 연산을 사용할 수 있기 때문이다
+
+ex)
+
+str.append( (char) ((c - 'A' + n) % 26 + 'A')); 
+ 
+str.append( (char) ((c - 'a' + n) % 26 + 'a')); 
+
+따라서 다음과 같이 개선할 수 있다
+
+
+class Solution {
+    public String solution(String s, int n) {
+        StringBuilder str = new StringBuilder();
+        int num = 0;
+        
+        for(int i = 0; i < s.length(); i++){
+            num = s.charAt(i); // 글자의 아스키코드 값
+            
+            if(num >= 65 && num <= 90){ // 대문자
+                str.append( (char) ((num - 'A' + n) % 26 + 'A')); 
+            }
+            else if(num >= 97 && num <= 122){ // 소문자
+	            str.append( (char) ((num - 'a' + n) % 26 + 'a')); 
+            }
+            else{
+                str.append(String.valueOf((char)num));
+            }
+        }
+        //System.out.println(str);
+        
+        return String.valueOf(str);
+    }
+}
+
+또 추가로 Character.isUpperCase() 함수를 이용하면 조건문을 더욱 간단하게 만들 수 있다
+
+class Solution {
+    public String solution(String s, int n) {
+        StringBuilder str = new StringBuilder();
+        int num = 0;
+        
+        for(int i = 0; i < s.length(); i++){
+            num = s.charAt(i); // 글자의 아스키코드 값
+            
+            if(Character.isUpperCase(num)){ // 대문자
+                str.append( (char) ((num - 'A' + n) % 26 + 'A')); 
+            }
+            else if(Character.isLowerCase(num)){ // 소문자
+        
+	            str.append( (char) ((num - 'a' + n) % 26 + 'a')); 
+            }
+            else{
+                str.append(String.valueOf((char)num));
+            }
+        }
+        //System.out.println(str);
+        
+        return String.valueOf(str);
+    }
+}
+
+
+
+
 ```

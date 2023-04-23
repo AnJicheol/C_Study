@@ -10,6 +10,9 @@
 
 ```java
 
+해당 코드는 try catch 문  스터디 목적으로 작성된 코드임 
+
+
 class Solution {
     public boolean solution(String s) {
     int len = s.length();
@@ -25,3 +28,8 @@ class Solution {
 }
 
 ```
+
+
+
+
+
