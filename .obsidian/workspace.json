@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+                "file": "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/무제 파일.md"
               }
             }
           }
@@ -190,14 +190,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e44e3ca1d73e0bc",
+  "active": "effcddfc97e84c64",
   "lastOpenFiles": [
+    "알고리즘/032.[1차] 캐시/1차 캐시.md",
+    "알고리즘/032.[1차] 캐시/K - 1차캐시.md",
+    "0_MAIN_README.md",
     "알고리즘/029.신고 결과 받기/Y - 신고 결과 받기.md",
     "CS 과목/디자인패턴/ch1.전략 패턴/T.전략 패턴.md",
-    "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+    "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
     "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
     "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
-    "0_MAIN_README.md",
     "주간 과제/REST_API/REST_API_EX1_T/Rest_Api_Ex1_T.md",
     "KakaoTalk_20230327_200915670.jpg",
     "주간 과제/REST_API/무제 파일.md",
@@ -205,8 +207,8 @@
     "주간 과제/REST_API/REST_API_EX1_T",
     "주간 과제/REST_API",
     "주간 과제",
-    "알고리즘/039.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
-    "알고리즘/039.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
+    "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
+    "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "CS 과목/알고리즘/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "CS 과목/알고리즘/ch2. 정렬/과제/무제 파일.md",
     "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
@@ -214,7 +216,7 @@
     "CS 과목/디자인패턴/ch2.옵저버패턴/T-옵저버 패턴(Observer).md",
     "CS 과목/디자인패턴/ch3.데코레이터 패턴/T - 데코레이터 패턴(Decorator).md",
     "CS 과목/알고리즘/README_자료구조.md",
-    "알고리즘/041.압축/규칙 - 압축.md",
+    "알고리즘/038.압축/규칙 - 압축.md",
     "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
     "알고리즘/040.타겟 넘버/T - 타겟 넘버.md",
     "conflict-files-obsidian-git.md",
@@ -222,12 +224,10 @@
     "무제 파일.canvas",
     "알고리즘/019.실패율/Y - 실패율.md",
     "알고리즘/019.실패율/T - 실패율.md",
-    "알고리즘/019.실패율/K - 실패율.md",
-    "CS 과목/리눅스_서버/README_리눅스_서버.md",
-    "알고리즘/041.압축",
+    "알고리즘/038.압축",
     "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
     "알고리즘/040.타겟 넘버",
-    "알고리즘/039.택배 배달과 수거하기",
+    "알고리즘/037.택배 배달과 수거하기",
     "CS 과목/디자인패턴/무제 폴더",
     "CS 과목/디자인패턴/ch3.데코레이터 패턴",
     "KakaoTalk_20230327_194501267.jpg",
