@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dce449062fec61bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md"
               }
             }
           }
@@ -154,8 +167,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d43f7402b4d2aaf2",
+  "active": "dce449062fec61bf",
   "lastOpenFiles": [
+    "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+    "알고리즘/039.파일명 정렬",
     "KakaoTalk_20230327_200915670.jpg",
     "0_MAIN_README.md",
     "알고리즘/038.압축/규칙 - 압축.md",
@@ -192,7 +207,6 @@
     "알고리즘/040.타겟 넘버",
     "알고리즘/037.택배 배달과 수거하기",
     "CS 과목/디자인패턴/무제 폴더",
-    "CS 과목/디자인패턴/ch3.데코레이터 패턴",
     "KakaoTalk_20230327_194501267.jpg",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
