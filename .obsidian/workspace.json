@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58aca1a1e634642b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/디자인패턴/README_디자인패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "533804972acf37ea",
             "type": "leaf",
             "state": {
@@ -672,24 +660,24 @@
             }
           },
           {
-            "id": "9694ec350f1403c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ae3ce04088235f0",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "e270cddee0e1d4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/038.압축/K - 압축.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -710,7 +698,7 @@
             }
           }
         ],
-        "currentTab": 60
+        "currentTab": 59
       }
     ],
     "direction": "vertical"
@@ -784,7 +772,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
+                "file": "알고리즘/038.압축/K - 압축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -801,7 +789,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
+                "file": "알고리즘/038.압축/K - 압축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -824,7 +812,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md"
+                "file": "알고리즘/038.압축/K - 압축.md"
               }
             }
           }
@@ -845,14 +833,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6ae3ce04088235f0",
+  "active": "e270cddee0e1d4c8",
   "lastOpenFiles": [
+    "알고리즘/038.압축/규칙 - 압축.md",
+    "알고리즘/038.압축/K - 압축.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "0_MAIN_README.md",
-    "conflict-files-obsidian-git.md",
     "KakaoTalk_20230327_200915670.jpg",
     "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
-    "알고리즘/038.압축/규칙 - 압축.md",
     "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
     "알고리즘/036.프린터/K - 프린터.md",
     "알고리즘/035.뉴스 클러스터링/Y - 뉴스 클러스터링.md",
@@ -882,7 +871,6 @@
     "알고리즘/033.튜플/K - 튜플.md",
     "알고리즘/033.튜플",
     "알고리즘/032.[1차] 캐시/Y - 1차 캐시.md",
-    "알고리즘/032.[1차] 캐시/T - 1차 캐시.md",
     "알고리즘/032.[1차] 캐시",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
