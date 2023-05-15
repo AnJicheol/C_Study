@@ -50,7 +50,6 @@ function solution(str1, str2) {
     for(var i=0; i<str1.length-1; i++){
         if(pattern2.test(str1[i] + str1[i+1])){
             str1_arr[index] = str1[i] + str1[i+1]
-
             index++
         }
     }
