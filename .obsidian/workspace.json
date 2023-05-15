@@ -675,7 +675,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/038.압축/K - 압축.md",
+                "file": "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
                 "mode": "source",
                 "source": false
               }
@@ -772,7 +772,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/038.압축/K - 압축.md",
+                "file": "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -789,7 +789,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/038.압축/K - 압축.md",
+                "file": "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -812,7 +812,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/038.압축/K - 압축.md"
+                "file": "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md"
               }
             }
           }
@@ -835,18 +835,18 @@
   },
   "active": "e270cddee0e1d4c8",
   "lastOpenFiles": [
-    "알고리즘/038.압축/규칙 - 압축.md",
+    "알고리즘/035.뉴스 클러스터링/T - 뉴스 클러스터링.md",
+    "알고리즘/035.뉴스 클러스터링/Y - 뉴스 클러스터링.md",
+    "알고리즘/035.뉴스 클러스터링/K - 뉴스 클러스터링.md",
+    "알고리즘/036.프린터/K - 프린터.md",
     "알고리즘/038.압축/K - 압축.md",
+    "알고리즘/038.압축/규칙 - 압축.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "0_MAIN_README.md",
     "KakaoTalk_20230327_200915670.jpg",
     "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
     "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
-    "알고리즘/036.프린터/K - 프린터.md",
-    "알고리즘/035.뉴스 클러스터링/Y - 뉴스 클러스터링.md",
-    "알고리즘/035.뉴스 클러스터링/K - 뉴스 클러스터링.md",
-    "알고리즘/035.뉴스 클러스터링/T - 뉴스 클러스터링.md",
     "알고리즘/034.n 배열 자르기/Y - 배열 자르기.md",
     "알고리즘/034.n 배열 자르기/T - 배열 자르기.md",
     "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
