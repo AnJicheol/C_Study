@@ -63,6 +63,7 @@ public class weapon extends item {
 public class sword extends weapon{
 	
 }
+
 public class bow extends weapon{
 	
 }

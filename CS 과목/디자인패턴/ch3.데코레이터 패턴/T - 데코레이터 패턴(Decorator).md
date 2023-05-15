@@ -57,7 +57,7 @@ public class Sandwich_ham{
 
 ```java
 public class Bread {  
-    boolean cheese;  
+    boolean cheese;
     boolean ham;  
     boolean Fried;  
     boolean cabbage;  
@@ -168,7 +168,7 @@ class Fried extends Decorator {
     public Fried(Bread bread){  
         this.bread = bread;  
     }  
-  
+	
     public String getDescription(){  
         return bread.getDescription() + "Fried";  
     }  
@@ -214,14 +214,19 @@ class Sandwich extends Bread{
 public class Main {  
     public static void main(String[] args) {  
         Bread sn = new Sandwich();  
-  
+		  
         System.out.println(sn.getDescription() + "   " + sn.Cost());  
-  
+		  
         sn = new cheese(sn);  
         sn = new cabbage(sn);  
-  
+		  
         System.out.println(sn.getDescription() + "   " + sn.Cost());  
-  
+		  
     }  
 }
+```
+
+```java
+샌드위치   2000
+샌드위치cheesecabbage   3500
 ```

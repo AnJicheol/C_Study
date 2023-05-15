@@ -594,18 +594,6 @@
             }
           },
           {
-            "id": "a36bf41d9aaff0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/033.구명보트/규칙 - 구명보트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f8d19aae7398a14",
             "type": "leaf",
             "state": {
@@ -642,156 +630,12 @@
             }
           },
           {
-            "id": "d5528f153761c05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/033.구명보트/K - 구명보트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe9084ef26339c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/035.튜플/규칙 - 튜플.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e680a25f413718af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 과목/리눅스_서버/README_리눅스_서버.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af98bbee3d141f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44a1605a7b0f9534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65cf4dab970dedb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/1차 캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5b63924151f6968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c56d15cbcbec1f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/K - 1차캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2623890bd597343c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.[1차] 캐시/K - 1차캐시.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259cb79025e1f8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/036.n 배열 자르기/규칙 - n 배열 자르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abddf68997e88540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/037.뉴스 클러스터링/T - 뉴스 클러스터링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5e388730252cd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/038.프린터/T - 프린터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2eca18712db9bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/038.프린터/K - 프린터.md",
                 "mode": "source",
                 "source": false
               }
@@ -810,59 +654,11 @@
             }
           },
           {
-            "id": "2e00062e1e258464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b509d659ee9217b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "cccf387cb0b9b735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/040.타겟 넘버/규칙 - 타겟 남바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80e65a2d98bf2c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/041.압축/규칙 - 압축.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e430e6a22061aff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -872,6 +668,28 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "9694ec350f1403c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae3ce04088235f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
               }
             }
           },
@@ -892,7 +710,7 @@
             }
           }
         ],
-        "currentTab": 75
+        "currentTab": 60
       }
     ],
     "direction": "vertical"
@@ -966,7 +784,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -983,7 +801,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1006,7 +824,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/039.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md"
+                "file": "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md"
               }
             }
           }
@@ -1027,45 +845,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b25cc8c5d7e229d7",
+  "active": "6ae3ce04088235f0",
   "lastOpenFiles": [
-    "알고리즘/039.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
-    "알고리즘/040.타겟 넘버/T - 타겟 넘버.md",
-    "알고리즘/041.압축/규칙 - 압축.md",
-    "CS 과목/디자인패턴/ch3.데코레이터 패턴/T-데코레이터 패턴(Decorator).md",
-    "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-    "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-    "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-    "알고리즘/005.하샤드 수/K - 하샤드 수.md",
-    "알고리즘/004.나머지가 1이 되는 수 찾기/K - 나머지가 1이 되는 수 찾기.md",
-    "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-    "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-    "알고리즘/001.정수 제곱근 판별/K - 정수 제곱근 판별.md",
-    "알고리즘/038.프린터/K - 프린터.md",
-    "알고리즘/037.뉴스 클러스터링/K - 뉴스 클러스터링.md",
-    "알고리즘/036.n 배열 자르기/K - n 배열 자르기.md",
-    "알고리즘/035.튜플/K - 튜플.md",
-    "알고리즘/034.[1차] 캐시/K - 1차캐시.md",
-    "알고리즘/033.구명보트/K - 구명보트.md",
-    "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
-    "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
-    "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
-    "알고리즘/027.둘만의 암호/K - 둘만의 암호.md",
-    "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-    "알고리즘/025.키패드 누르기/K -  키패드 누르기.md",
-    "알고리즘/024.기사단원의 무기/K - 기사단원의 무기.md",
-    "알고리즘/023.완주하지 못한 선수/K - 완주하지 못한 선수.md",
-    "알고리즘/041.압축",
-    "알고리즘/040.타겟 넘버",
-    "알고리즘/039.택배 배달과 수거하기",
-    "알고리즘/034.[1차] 캐시/001.택배 배달과 수거하기",
-    "CS 과목/디자인패턴/ch3.데코레이터 패턴",
-    "CS 과목/디자인패턴/ch2.옵저버패턴",
-    "CS 과목/디자인패턴/ch.3데코레이터 패턴",
-    "알고리즘/038.프린터",
-    "알고리즘/037.뉴스 클러스터링",
-    "알고리즘/036.n 배열 자르기",
+    "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
+    "0_MAIN_README.md",
+    "conflict-files-obsidian-git.md",
     "KakaoTalk_20230327_200915670.jpg",
+    "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+    "알고리즘/038.압축/규칙 - 압축.md",
+    "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
+    "알고리즘/036.프린터/K - 프린터.md",
+    "알고리즘/035.뉴스 클러스터링/Y - 뉴스 클러스터링.md",
+    "알고리즘/035.뉴스 클러스터링/K - 뉴스 클러스터링.md",
+    "알고리즘/035.뉴스 클러스터링/T - 뉴스 클러스터링.md",
+    "알고리즘/034.n 배열 자르기/Y - 배열 자르기.md",
+    "알고리즘/034.n 배열 자르기/T - 배열 자르기.md",
+    "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
+    "주간 과제/REST_API/REST_API_EX1_T/Rest_Api_Ex1_T.md",
+    "주간 과제/REST_API/무제 파일.md",
+    "주간 과제/REST_API/REST_API_EX1_T",
+    "주간 과제/REST_API",
+    "주간 과제",
+    "알고리즘/038.압축",
+    "알고리즘/037.택배 배달과 수거하기",
+    "알고리즘/036.프린터/규칙 - 프린터.md",
+    "알고리즘/036.프린터/Y - 프린터.md",
+    "알고리즘/036.프린터/T - 프린터.md",
+    "알고리즘/036.프린터",
+    "알고리즘/035.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
+    "알고리즘/035.뉴스 클러스터링",
+    "알고리즘/034.n 배열 자르기/규칙 - n 배열 자르기.md",
+    "알고리즘/034.n 배열 자르기",
+    "알고리즘/033.튜플/규칙 - 튜플.md",
+    "알고리즘/033.튜플/Y - 튜플.md",
+    "알고리즘/033.튜플/T - 튜플.md",
+    "알고리즘/033.튜플/K - 튜플.md",
+    "알고리즘/033.튜플",
+    "알고리즘/032.[1차] 캐시/Y - 1차 캐시.md",
+    "알고리즘/032.[1차] 캐시/T - 1차 캐시.md",
+    "알고리즘/032.[1차] 캐시",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
