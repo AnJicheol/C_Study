@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+                "file": "0_MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+                "file": "0_MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+                "file": "0_MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md"
+                "file": "0_MAIN_README.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "dce449062fec61bf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/038.압축/K - 압축.md",
     "알고리즘/039.파일명 정렬",
     "KakaoTalk_20230327_200915670.jpg",
