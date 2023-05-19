@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/039.파일명 정렬/T - 파일명 정렬.md"
               }
             }
           }
@@ -170,12 +170,14 @@
   "active": "dce449062fec61bf",
   "lastOpenFiles": [
     "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
-    "conflict-files-obsidian-git.md",
+    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
+    "알고리즘/038.압축/T - 압축.md",
     "알고리즘/038.압축/K - 압축.md",
+    "알고리즘/038.압축/규칙 - 압축.md",
+    "0_MAIN_README.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/039.파일명 정렬",
     "KakaoTalk_20230327_200915670.jpg",
-    "0_MAIN_README.md",
-    "알고리즘/038.압축/규칙 - 압축.md",
     "알고리즘/036.프린터/T - 프린터.md",
     "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
     "주간 과제/REST_API/무제 파일.md",
@@ -199,8 +201,6 @@
     "CS 과목/알고리즘/ch2. 정렬/Y - 삽입정렬, 병합정렬.md",
     "CS 과목/알고리즘/ch3.  함수의 증가/무제 파일.md",
     "CS 과목/디자인패턴/ch2.옵저버패턴/T-옵저버 패턴(Observer).md",
-    "CS 과목/디자인패턴/ch3.데코레이터 패턴/T - 데코레이터 패턴(Decorator).md",
-    "CS 과목/알고리즘/README_자료구조.md",
     "무제 파일.canvas",
     "알고리즘/038.압축",
     "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
