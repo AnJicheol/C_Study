@@ -6,7 +6,6 @@ import java.util.Comparator;
 class Solution {
     public String[] solution(String[] files) {
         
-      
         Arrays.sort(files ,new Comparator<String> (){
             
             String str1 = "";
@@ -14,7 +13,7 @@ class Solution {
             String num1 = "";
             String num2 = "";
             int num = 0;
-            
+           
             @Override
             public int compare(String o1, String o2){
                 
@@ -36,8 +35,9 @@ class Solution {
                 
             } 
         });
-          
+           
         return files;
     }
 }
+
 ```
