@@ -820,7 +820,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/README.md",
+                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -837,7 +837,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/README.md",
+                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -860,7 +860,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/README.md"
+                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md"
               }
             }
           }
@@ -881,8 +881,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "effcddfc97e84c64",
+  "active": "b45e19be9704b30f",
   "lastOpenFiles": [
+    "알고리즘/README.md",
     "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
     "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
@@ -918,7 +919,6 @@
     "알고리즘/036.프린터",
     "알고리즘/035.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
     "알고리즘/035.뉴스 클러스터링",
-    "알고리즘/034.n 배열 자르기/규칙 - n 배열 자르기.md",
     "알고리즘/034.n 배열 자르기",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
