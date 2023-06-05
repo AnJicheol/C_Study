@@ -820,7 +820,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+                "file": "알고리즘/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -837,7 +837,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+                "file": "알고리즘/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -860,7 +860,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md"
+                "file": "알고리즘/README.md"
               }
             }
           }
@@ -881,14 +881,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b45e19be9704b30f",
+  "active": "effcddfc97e84c64",
   "lastOpenFiles": [
-    "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
+    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+    "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/036.프린터/K - 프린터.md",
     "알고리즘/038.압축/K - 압축.md",
-    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
     "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
     "알고리즘/040.프렌지4블럭",
     "알고리즘/038.압축/T - 압축.md",
