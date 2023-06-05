@@ -4,685 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a15811cba3cded",
+        "id": "34a2e6179e801eea",
         "type": "tabs",
         "children": [
           {
-            "id": "533804972acf37ea",
+            "id": "d43f7402b4d2aaf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/README.md",
+                "file": "0_MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0797942423b1aa9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d78f51a88598e75d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19892bfd25551939",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48ddb886fcaea268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79b0936477c20336",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b45767df2d369684",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99093c338fb9028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/002.문자열을 정수로 바꾸기/K - 문자열을 정수로 바꾸기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbd08e5de4278e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0efd9b9944090c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/003.정수 내림차순으로 배치하기/K - 정수 내림차순으로 배치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef692109973788b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ca0951e9d6eadb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/006.두 정수 사이의 합/K - 두 정수 사이의 합.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3469a645389d0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5defaec5688aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/K - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8050fa6717ee0c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f0608c65cfcd895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/007.콜라츠 추측/T - 콜라츠 추측.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "227294199f2cbe19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a9d091289ecc4dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e45747475609202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/008.가운데 글자 가져오기/K - 가운데 글자 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6cb63f5946c485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d1b52f09ad20a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b282afebc0a904d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd376df7cf508a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/K - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d233fce68cba5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/013.삼총사/규칙 - 삼총사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea545716f0310f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/012.시저 암호/K - 시저암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "999e5e2f756fa2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/규칙 - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61924f04c1f05837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/012.시저 암호/T - 시저 암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009c2c36f0ed3bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/014.최소직사각형/규칙 - 최소직사각형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce75a9404449441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/016.k번째수/규칙 - K 번째수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d930016529d4576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/규칙 - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f702a248b9e45026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996242bac9bc8899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/011.숫자 문자열과 영단어/Y - 숫자 문자열과 영단어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2ca0996ba7c84f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/K - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199352aa13906fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/017.크기가 작은 부분 문자열/Y - 크기가 작은 부분 문자열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d8973e45f93a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/019.실패율/규칙 - 실패율.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44ae07a35262498b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adae90f818295741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/018.푸드 파이트 대회/규칙 - 푸드 파이트 대회.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e5fbb8c5931cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/020.1차 다트 게임/규칙 - 1차 다트 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aedd8a29b460c44",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "2ae9644052dbfda6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/021.명예의 전당/규칙.명예의 전당.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce8008f2395abde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/023.완주하지 못한 선수/규칙 - 완주하지 못한 선수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "265873a800c2082c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/022.체육복/규칙 - 체육복.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5864bd3ebc1c383f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/025.키패드 누르기/규칙 - 키패드 누르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8270d5eb22612c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4605de5a580df733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/규칙 - 크레인 인형뽑기 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c13683dfb770933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/024.기사단원의 무기/규칙 - 기사단원의 무기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ddd62eb93399ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/027.둘만의 암호/T - 둘만의 암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdfacb0febcf39ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/028.개인정보 수집 유효기간/규칙 - 개인정보 수집 유효기간.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06155e0c9ebb0cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/030.바탕화면 정리/규칙 - 바탕화면 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1513bf1872eca547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/028.개인정보 수집 유효기간/K - 개인정보 수집 유효기간.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ba58c3f41d9914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/030.바탕화면 정리/K - 바탕화면 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f8d19aae7398a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/027.둘만의 암호/규칙 - 둘만의 암호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68810d2feebc964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/026.크레인 인형뽑기 게임/K - 크레인 인형 뽑기 게임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cebdcd3e0fba2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b63924151f6968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/규칙 - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ab36878d790ed35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b509d659ee9217b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b25cc8c5d7e229d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
-            "id": "6ae3ce04088235f0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "e270cddee0e1d4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77ba32ddab8614c8",
+            "id": "dce449062fec61bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -694,47 +32,19 @@
             }
           },
           {
-            "id": "bf1c04cce785cd39",
+            "id": "271f1a0a6c3ca78f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3af7e2c5342fece4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8b56b29b97df54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d62f7962792cd4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -781,7 +91,7 @@
             }
           },
           {
-            "id": "3e80496f94c314e4",
+            "id": "f3accce8b20e9e12",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -792,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "71c1a862516157c8",
@@ -808,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -825,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -848,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md"
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md"
               }
             }
           }
@@ -869,46 +179,51 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3af7e2c5342fece4",
+  "active": "271f1a0a6c3ca78f",
   "lastOpenFiles": [
-    "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
-    "conflict-files-obsidian-git.md",
-    "알고리즘/036.프린터/K - 프린터.md",
-    "알고리즘/038.압축/K - 압축.md",
-    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
-    "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
-    "알고리즘/040.프렌지4블럭",
-    "알고리즘/038.압축/T - 압축.md",
-    "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
-    "알고리즘/039.파일명 정렬",
-    "알고리즘/035.뉴스 클러스터링/T - 뉴스 클러스터링.md",
-    "알고리즘/035.뉴스 클러스터링/Y - 뉴스 클러스터링.md",
-    "알고리즘/035.뉴스 클러스터링/K - 뉴스 클러스터링.md",
-    "알고리즘/038.압축/규칙 - 압축.md",
-    "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
+    "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
+    "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
+    "알고리즘/041.뒤에 있는 큰 수 찾기",
     "0_MAIN_README.md",
+    "알고리즘/무제 파일.md",
+    "알고리즘/040.프렌지4블럭",
+    "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
+    "알고리즘/README.md",
+    "알고리즘/038.압축/T - 압축.md",
+    "알고리즘/038.압축/K - 압축.md",
+    "알고리즘/038.압축/규칙 - 압축.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/039.파일명 정렬",
     "KakaoTalk_20230327_200915670.jpg",
-    "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+    "알고리즘/036.프린터/T - 프린터.md",
     "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
-    "알고리즘/034.n 배열 자르기/Y - 배열 자르기.md",
-    "알고리즘/034.n 배열 자르기/T - 배열 자르기.md",
-    "주간 과제/REST_API/REST_API_EX1_T/Rest_Api_Ex1_T.md",
     "주간 과제/REST_API/무제 파일.md",
+    "알고리즘/034.n 배열 자르기/규칙 - n 배열 자르기.md",
+    "알고리즘/029.신고 결과 받기/Y - 신고 결과 받기.md",
+    "알고리즘/032.[1차] 캐시/1차 캐시.md",
+    "알고리즘/032.[1차] 캐시/K - 1차캐시.md",
+    "CS 과목/디자인패턴/ch1.전략 패턴/T.전략 패턴.md",
+    "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
+    "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
+    "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
+    "주간 과제/REST_API/REST_API_EX1_T/Rest_Api_Ex1_T.md",
+    "주간 과제/REST_API/무제 폴더",
     "주간 과제/REST_API/REST_API_EX1_T",
     "주간 과제/REST_API",
     "주간 과제",
-    "알고리즘/038.압축",
-    "알고리즘/037.택배 배달과 수거하기",
-    "알고리즘/036.프린터/규칙 - 프린터.md",
-    "알고리즘/036.프린터/Y - 프린터.md",
-    "알고리즘/036.프린터/T - 프린터.md",
-    "알고리즘/036.프린터",
-    "알고리즘/035.뉴스 클러스터링/규칙 - 뉴스 클러스터링.md",
-    "알고리즘/035.뉴스 클러스터링",
-    "알고리즘/034.n 배열 자르기/규칙 - n 배열 자르기.md",
-    "알고리즘/034.n 배열 자르기",
+    "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
+    "CS 과목/알고리즘/ch.1 - 알고리즘의 역할/T - 알고리즘의 역활.md",
     "무제 파일.canvas",
+    "알고리즘/038.압축",
+    "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
+    "알고리즘/040.타겟 넘버",
+    "KakaoTalk_20230327_194501267.jpg",
+    "무제 파일 6.canvas",
+    "무제 파일 5.canvas",
+    "무제 파일 4.canvas",
+    "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Pasted image 20230227193610.png"
