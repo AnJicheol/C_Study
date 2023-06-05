@@ -718,6 +718,18 @@
             }
           },
           {
+            "id": "b45e19be9704b30f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -734,7 +746,7 @@
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 63
       }
     ],
     "direction": "vertical"
@@ -869,7 +881,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3af7e2c5342fece4",
+  "active": "b45e19be9704b30f",
   "lastOpenFiles": [
     "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
