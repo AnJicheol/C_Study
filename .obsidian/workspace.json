@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_MAIN_README.md",
+                "file": "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_MAIN_README.md"
+                "file": "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md"
               }
             }
           }
@@ -156,10 +156,13 @@
   },
   "active": "1d97472049efe79a",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "0_MAIN_README.md",
+    "().md",
+    "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
     "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
+    "알고리즘/042.2xn 타일링",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+    "0_MAIN_README.md",
+    "무제 파일.canvas",
     "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
     "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
     "알고리즘/038.압축/T - 압축.md",
@@ -191,10 +194,8 @@
     "주간 과제/REST_API/REST_API_EX1_T",
     "주간 과제/REST_API",
     "주간 과제",
-    "알고리즘/037.택배 배달과 수거하기/T - 택배 배달과 수거하기.md",
     "알고리즘/038.압축",
     "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
-    "알고리즘/040.타겟 넘버",
     "KakaoTalk_20230327_194501267.jpg",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
