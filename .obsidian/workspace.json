@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN_README.md",
+                "file": "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN_README.md",
+                "file": "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN_README.md",
+                "file": "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN_README.md"
+                "file": "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md"
               }
             }
           }
@@ -169,8 +169,16 @@
   },
   "active": "bcfb90374a6eacdb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "알고리즘/044.다음 큰 숫자/규칙 - 다음 큰 숫자.md",
+    "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
+    "알고리즘/045.영어 끝말잇기",
+    "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
+    "알고리즘/044.다음 큰 숫자",
+    "알고리즘/038.압축/K - 압축.md",
+    "알고리즘/043.2개 이하로 다른 비트",
+    "알고리즘/038.압축/T - 압축.md",
     "MAIN_README.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
     "알고리즘/README.md",
     "무제 파일.canvas",
@@ -182,8 +190,6 @@
     "알고리즘/042.2xn 타일링",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
     "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
-    "알고리즘/038.압축/T - 압축.md",
-    "알고리즘/038.압축/K - 압축.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "알고리즘/041.뒤에 있는 큰 수 찾기",
@@ -200,15 +206,9 @@
     "알고리즘/032.[1차] 캐시/1차 캐시.md",
     "알고리즘/032.[1차] 캐시/K - 1차캐시.md",
     "CS 과목/디자인패턴/ch1.전략 패턴/T.전략 패턴.md",
-    "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
-    "알고리즘/029.신고 결과 받기/T - 신고 결과 받기.md",
-    "알고리즘/029.신고 결과 받기/K - 신고 결과 받기.md",
     "주간 과제/REST_API/무제 폴더",
     "주간 과제/REST_API/REST_API_EX1_T",
     "주간 과제/REST_API",
-    "주간 과제",
-    "알고리즘/038.압축",
-    "알고리즘/001.정수 제곱근 판별/T-정수 제곱근 판별.java",
     "KakaoTalk_20230327_194501267.jpg",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
