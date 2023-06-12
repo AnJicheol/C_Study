@@ -747,7 +747,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -844,7 +844,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -861,7 +861,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -884,7 +884,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md"
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md"
               }
             }
           }
@@ -907,8 +907,8 @@
   },
   "active": "d4a9e91304ed233f",
   "lastOpenFiles": [
-    "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
     "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
+    "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
     "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
     "conflict-files-obsidian-git.md",
