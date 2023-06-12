@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "533804972acf37ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0797942423b1aa9f",
             "type": "leaf",
             "state": {
@@ -41,18 +29,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "48ddb886fcaea268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/README.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -754,6 +730,18 @@
             }
           },
           {
+            "id": "785ecbbe89d00d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da8b56b29b97df54",
             "type": "leaf",
             "state": {
@@ -770,7 +758,7 @@
             }
           }
         ],
-        "currentTab": 65
+        "currentTab": 64
       }
     ],
     "direction": "vertical"
@@ -844,7 +832,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -861,7 +849,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -884,7 +872,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md"
+                "file": "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md"
               }
             }
           }
@@ -905,23 +893,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d4a9e91304ed233f",
+  "active": "785ecbbe89d00d0d",
   "lastOpenFiles": [
-    "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
-    "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
     "알고리즘/041.뒤에 있는 큰 수 찾기/규칙 - 뒤에 있는 큰 수 찾기.md",
+    "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md",
+    "알고리즘/042.2xn 타일링/K - 2 x n 타일링.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
+    "알고리즘/036.프린터/K - 프린터.md",
+    "알고리즘/036.프린터/Y - 프린터.md",
+    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
+    "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
+    "알고리즘/038.압축/K - 압축.md",
     "conflict-files-obsidian-git.md",
+    "MAIN_README.md",
+    "알고리즘/042.2xn 타일링/규칙 - 2 x n 타일링.md",
     "알고리즘/042.2xn 타일링",
     "무제 파일.canvas",
     "().md",
-    "알고리즘/039.파일명 정렬/규칙 - 파일명 정렬.md",
-    "알고리즘/039.파일명 정렬/T - 파일명 정렬.md",
     "알고리즘/041.뒤에 있는 큰 수 찾기",
     "알고리즘/README.md",
     "알고리즘/040.프렌지4블럭/규칙 - 프렌지4블럭.md",
-    "알고리즘/036.프린터/K - 프린터.md",
-    "알고리즘/038.압축/K - 압축.md",
     "알고리즘/040.프렌지4블럭",
     "알고리즘/038.압축/T - 압축.md",
     "알고리즘/034.n 배열 자르기/K - n 배열 자르기.md",
@@ -936,9 +927,6 @@
     "알고리즘/037.택배 배달과 수거하기/규칙 -  택배 배달과 수거하기.md",
     "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
     "알고리즘/034.n 배열 자르기/Y - 배열 자르기.md",
-    "알고리즘/034.n 배열 자르기/T - 배열 자르기.md",
-    "주간 과제/REST_API/REST_API_EX1_T/Rest_Api_Ex1_T.md",
-    "주간 과제/REST_API/무제 파일.md",
     "주간 과제/REST_API/REST_API_EX1_T",
     "주간 과제/REST_API",
     "주간 과제",
