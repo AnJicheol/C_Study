@@ -747,7 +747,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "mode": "source",
                 "source": false
               }
@@ -844,7 +844,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -861,7 +861,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -884,7 +884,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md"
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md"
               }
             }
           }
@@ -907,8 +907,8 @@
   },
   "active": "dfc6edd8bda339a7",
   "lastOpenFiles": [
-    "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
     "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
+    "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
     "알고리즘/044.다음 큰 숫자/K - 다음 큰 숫자.md",
     "알고리즘/044.다음 큰 숫자/규칙 - 다음 큰 숫자.md",
     "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
