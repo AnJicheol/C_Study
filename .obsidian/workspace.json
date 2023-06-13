@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28e71269966a5226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/048.연속 부분 수열 합의 개수/규칙 - 연속 부분 수열 합의 개수.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/048.연속 부분 수열 합의 개수/규칙 - 연속 부분 수열 합의 개수.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/048.연속 부분 수열 합의 개수/규칙 - 연속 부분 수열 합의 개수.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -167,10 +179,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bcfb90374a6eacdb",
+  "active": "28e71269966a5226",
   "lastOpenFiles": [
-    "알고리즘/047.예상 대진표/규칙 - 예상 대진표.md",
     "알고리즘/048.연속 부분 수열 합의 개수/규칙 - 연속 부분 수열 합의 개수.md",
+    "conflict-files-obsidian-git.md",
+    "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
+    "알고리즘/044.다음 큰 숫자/K - 다음 큰 숫자.md",
+    "알고리즘/047.예상 대진표/규칙 - 예상 대진표.md",
     "알고리즘/048.연속 부분 수열 합의 개수",
     "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md",
     "알고리즘/047.예상 대진표",
@@ -182,7 +197,6 @@
     "알고리즘/041.뒤에 있는 큰 수 찾기/K - 뒤에 있는 큰 수 찾기.md",
     "알고리즘/040.프렌지4블럭/K - 프렌지4블럭.md",
     "알고리즘/045.영어 끝말잇기/규칙 - 영어 끝말잇기.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/039.파일명 정렬/K - 파일정렬.md",
     "알고리즘/044.다음 큰 숫자/규칙 - 다음 큰 숫자.md",
     "알고리즘/045.영어 끝말잇기",
@@ -207,8 +221,6 @@
     "알고리즘/039.파일명 정렬",
     "KakaoTalk_20230327_200915670.jpg",
     "알고리즘/036.프린터/T - 프린터.md",
-    "알고리즘/037.택배 배달과 수거하기/Y - 택배 배달과 수거하기.md",
-    "주간 과제/REST_API/무제 파일.md",
     "KakaoTalk_20230327_194501267.jpg",
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
