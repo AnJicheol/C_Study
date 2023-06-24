@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "mode": "source",
                 "source": false
               }
@@ -868,7 +868,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -885,7 +885,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md",
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -908,7 +908,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md"
+                "file": "알고리즘/043.2개 이하로 다른 비트/규칙 - 2개 이하로 다른 비트.md"
               }
             }
           }
