@@ -82,12 +82,11 @@ function solution(n, words) {
     var answer = [];
     var a = [];
     var b = [];
-    a[0] = 100000
-    a[1] = 100000
-    b[0] = 100000
-    b[1] = 100000
-    let words_copy = JSON.parse(JSON.stringify(words));
-    words_copy = [...new Set(words_copy)];
+    a[0] = 101
+    a[1] = 101
+    b[0] = 101
+    b[1] = 101
+
     // 조건 틀림
     for (var i = 0; i < words.length - 1; i++) {
         if (words[i].charAt(words[i].length - 1) != words[i + 1].charAt(0)) {
@@ -100,30 +99,29 @@ function solution(n, words) {
             break
         }
     }
+
     // 누군가 같은 단어 사용
-    if (words_copy.length != words.length) {
-        for (var i = 0; i < words.length; i++) {
-            for (var j = i + 1; j < words.length; j++) {
-                if (words[i] == words[j]) {
-                    b[0] = (j + 1) % n
-                    b[1] = Math.floor((j + 1) / n) + 1
-                    if (b[0] == 0) {
-                        b[0] = n
-                        b[1] = (j + 1) / n
-                    }
+    for (var i = 0; i < words.length; i++) {
+        for (var j = i + 1; j < words.length; j++) {
+            if (words[i] == words[j]) {
+                b[0] = (j + 1) % n
+                b[1] = Math.floor((j + 1) / n) + 1
+                if (b[0] == 0) {
+                    b[0] = n
+                    b[1] = (j + 1) / n
                 }
             }
         }
     }
-    if(a[1] <= b[1]){
+    if (a[1] <= b[1]) {
         answer[0] = a[0]
         answer[1] = a[1]
     }
-    if(a[1] >= b[1]){
+    if (a[1] >= b[1]) {
         answer[0] = b[0]
         answer[1] = b[1]
     }
-    if(answer[0] == 100000){
+    if (answer[0] == 101) {
         answer[0] = 0
         answer[1] = 0
     }
