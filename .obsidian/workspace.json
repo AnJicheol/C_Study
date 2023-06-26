@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/무제 파일.md",
+                "file": "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md",
                 "mode": "source",
                 "source": false
               }
@@ -868,7 +868,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/무제 파일.md",
+                "file": "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -885,7 +885,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/무제 파일.md",
+                "file": "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -908,7 +908,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/049.삼각 달팽이/무제 파일.md"
+                "file": "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md"
               }
             }
           }
@@ -931,8 +931,8 @@
   },
   "active": "b2f32745d60b6b52",
   "lastOpenFiles": [
-    "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md",
     "알고리즘/049.삼각 달팽이/무제 파일.md",
+    "알고리즘/049.삼각 달팽이/규칙 - 삼각 달팽이.md",
     "알고리즘/046.쿼드압축 후 개수 세기/규칙 - 쿼드압축 후 개수 세기.md",
     "알고리즘/045.영어 끝말잇기/K - 영어 끝말잇기.md",
     "알고리즘/047.예상 대진표/K - 예상 대진표.md",
