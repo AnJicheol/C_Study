@@ -27,7 +27,6 @@ class Solution {
         for(int i = 0; i < 10; i++) {
             s = s.replaceAll(strArr[i], Integer.toString(i));
         }
-        
         return Integer.parseInt(s);
     }
 }

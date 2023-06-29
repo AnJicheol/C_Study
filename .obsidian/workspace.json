@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "f9ea17324d722af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d78f51a88598e75d",
             "type": "leaf",
             "state": {
@@ -806,7 +818,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -880,7 +892,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/052.두 큐 합 같게 만들기/규칙 - 두 큐 합 같게 만들기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -897,7 +909,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/052.두 큐 합 같게 만들기/규칙 - 두 큐 합 같게 만들기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -920,7 +932,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/052.두 큐 합 같게 만들기/규칙 - 두 큐 합 같게 만들기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -941,8 +953,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4e1fa48461dc6714",
+  "active": "f9ea17324d722af8",
   "lastOpenFiles": [
+    "알고리즘/052.두 큐 합 같게 만들기/규칙 - 두 큐 합 같게 만들기.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/053.행렬의 곱셈/K - 행렬의 곰셉.md",
     "알고리즘/033.튜플/K - 튜플.md",
     "알고리즘/033.튜플/T - 튜플.md",
@@ -967,8 +981,6 @@
     "알고리즘/010.부족한 금액 계산하기/Y - 부족한 금액 계산하기.md",
     "알고리즘/010.부족한 금액 계산하기/T - 부족한 금액 계산하기.md",
     "알고리즘/010.부족한 금액 계산하기/K - 부족한 금액 계산하기.md",
-    "알고리즘/009.문자열 다루기 기본/K - 문자열 다루기 기본.md",
-    "알고리즘/008.가운데 글자 가져오기/Y - 가운데 글자 가져오기.md",
     "알고리즘/053.행렬의 곱셈",
     "알고리즘/052.두 큐 합 같게 만들기",
     "알고리즘/051.괄호 회전하기",
