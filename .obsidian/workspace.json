@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
                 "mode": "source",
                 "source": false
               }
@@ -892,7 +892,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -909,7 +909,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -932,7 +932,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md"
+                "file": "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md"
               }
             }
           }
@@ -955,10 +955,10 @@
   },
   "active": "8d4f8e8c1478011f",
   "lastOpenFiles": [
+    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/055.3차 방금그곡",
-    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/052.두 큐 합 같게 만들기/K - 두 큐 합 같게 만들기.md",
     "알고리즘/054.메뉴 리뉴얼",
     "알고리즘/052.두 큐 합 같게 만들기/규칙 - 두 큐 합 같게 만들기.md",
