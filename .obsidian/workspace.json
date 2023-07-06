@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -892,7 +892,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -909,7 +909,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+                "file": "MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -932,7 +932,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md"
+                "file": "MAIN_README.md"
               }
             }
           }
@@ -955,11 +955,11 @@
   },
   "active": "8d4f8e8c1478011f",
   "lastOpenFiles": [
+    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/053.행렬의 곱셈/K - 행렬의 곰셉.md",
     "알고리즘/055.3차 방금그곡/K - 방금 그곡.md",
     "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
     "MAIN_README.md",
-    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/053.행렬의 곱셈/규칙 - 행렬의 곱셈.md",
     "conflict-files-obsidian-git.md",
     "알고리즘/055.3차 방금그곡",
