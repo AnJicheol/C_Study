@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "4dbbc983a8360f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d78f51a88598e75d",
             "type": "leaf",
             "state": {
@@ -818,7 +830,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -892,7 +904,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN_README.md",
+                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -909,7 +921,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN_README.md",
+                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -932,7 +944,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN_README.md"
+                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md"
               }
             }
           }
@@ -953,15 +965,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8d4f8e8c1478011f",
+  "active": "4dbbc983a8360f40",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "MAIN_README.md",
+    "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+    "알고리즘/056.괄호 변환",
     "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/053.행렬의 곱셈/K - 행렬의 곰셉.md",
     "알고리즘/055.3차 방금그곡/K - 방금 그곡.md",
     "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
-    "MAIN_README.md",
     "알고리즘/053.행렬의 곱셈/규칙 - 행렬의 곱셈.md",
-    "conflict-files-obsidian-git.md",
     "알고리즘/055.3차 방금그곡",
     "알고리즘/052.두 큐 합 같게 만들기/K - 두 큐 합 같게 만들기.md",
     "알고리즘/054.메뉴 리뉴얼",
@@ -983,14 +997,12 @@
     "알고리즘/015.비밀지도/K - 비밀지도.md",
     "알고리즘/013.삼총사/Y - 삼총사.md",
     "알고리즘/013.삼총사/K - 삼총사.md",
-    "알고리즘/012.시저 암호/Y - 시저 암호.md",
     "알고리즘/053.행렬의 곱셈",
     "알고리즘/052.두 큐 합 같게 만들기",
     "알고리즘/051.괄호 회전하기",
     "알고리즘/050.n개의 최소공배수",
     "알고리즘/049.삼각 달팽이",
     "알고리즘/048.연속 부분 수열 합의 개수",
-    "알고리즘/047.예상 대진표",
     "무제 파일.canvas",
     "KakaoTalk_20230327_200915670.jpg",
     "무제 파일 2.canvas",
