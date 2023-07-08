@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "알고리즘/056.괄호 변환/K - 괄호변환.md",
                 "mode": "source",
                 "source": false
               }
@@ -904,7 +904,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "알고리즘/056.괄호 변환/K - 괄호변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -921,7 +921,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "알고리즘/056.괄호 변환/K - 괄호변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -944,7 +944,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md"
+                "file": "알고리즘/056.괄호 변환/K - 괄호변환.md"
               }
             }
           }
@@ -967,9 +967,10 @@
   },
   "active": "4dbbc983a8360f40",
   "lastOpenFiles": [
+    "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+    "알고리즘/056.괄호 변환/K - 괄호변환.md",
     "conflict-files-obsidian-git.md",
     "MAIN_README.md",
-    "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
     "알고리즘/056.괄호 변환",
     "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/053.행렬의 곱셈/K - 행렬의 곰셉.md",
@@ -996,7 +997,6 @@
     "알고리즘/015.비밀지도/Y - 비밀지도.md",
     "알고리즘/015.비밀지도/K - 비밀지도.md",
     "알고리즘/013.삼총사/Y - 삼총사.md",
-    "알고리즘/013.삼총사/K - 삼총사.md",
     "알고리즘/053.행렬의 곱셈",
     "알고리즘/052.두 큐 합 같게 만들기",
     "알고리즘/051.괄호 회전하기",
