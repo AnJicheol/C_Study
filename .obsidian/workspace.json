@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "MAIN_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "MAIN_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+                "file": "MAIN_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md"
+                "file": "MAIN_README.md"
               }
             }
           }
@@ -181,14 +181,14 @@
   },
   "active": "3b6207ab85e8c264",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
+    "알고리즘/055.3차 방금그곡/K - 방금 그곡.md",
     "알고리즘/056.괄호 변환/규칙 - 괄호 변환.md",
+    "conflict-files-obsidian-git.md",
     "알고리즘/056.괄호 변환",
     "알고리즘/055.3차 방금그곡/규칙- 방금그곡.md",
-    "알고리즘/055.3차 방금그곡/K - 방금 그곡.md",
     "MAIN_README.md",
     "알고리즘/052.두 큐 합 같게 만들기/K - 두 큐 합 같게 만들기.md",
-    "알고리즘/054.메뉴 리뉴얼/규칙 - 메뉴 리뉴얼.md",
     "알고리즘/051.괄호 회전하기/규칙 - 괄호 회전하기.md",
     "알고리즘/050.n개의 최소공배수/규칙 - n개의 최소 공배수.md",
     "알고리즘/049.삼각 달팽이/K - 삼각달팽이.md",
